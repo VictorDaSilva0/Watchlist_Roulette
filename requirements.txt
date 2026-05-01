@@ -3,3 +3,5 @@ pandas
 dash-bootstrap-components
 python-dotenv
 requests
+dash-mantine-components 
+dash-iconify

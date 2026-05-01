@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&family=Montserrat:wght@300;400;600&display=swap');
 
 :root {
     --bg-color: #14181c;
@@ -6,6 +6,7 @@
     --text-color: #ffffff;
     --accent-color: #ff8000;
     --border-color: #445566;
+    --muted-text: #9ab;
 }
 
 [data-theme="light"] {
@@ -14,79 +15,82 @@
     --text-color: #2c3440;
     --accent-color: #ff8000;
     --border-color: #d8e0e8;
+    --muted-text: #678;
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
     transition: background-color 0.3s ease, color 0.3s ease;
     margin: 0;
 }
 
-#theme-container {
-    min-height: 100vh;
-    padding: 20px;
+h1, h2, h3, h4 {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-color) !important;
 }
 
-/* --- ESPACEMENT DES FILTRES --- */
+/* --- CORRECTION FORCEE DES CHIFFRES DU SLIDER --- */
+body .rc-slider-mark-text {
+    color: var(--text-color) !important; /* Force la couleur du thème */
+    opacity: 0.7;
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 0.8rem !important;
+    top: 15px !important; /* Un peu d'espace sous le curseur */
+}
+
+body .rc-slider-mark-text-active {
+    color: var(--accent-color) !important;
+    opacity: 1;
+    font-weight: 600;
+}
+
+/* On change aussi la couleur des petits points sur la ligne */
+body .rc-slider-dot {
+    border-color: var(--border-color) !important;
+    background-color: var(--card-bg) !important;
+}
+
+/* Animations et Cartes */
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.result-animation {
+    animation: fadeInUp 0.5s ease-out forwards;
+}
+
 .filter-card {
     background-color: var(--card-bg) !important;
     border: 1px solid var(--border-color) !important;
-    color: var(--text-color) !important;
-    border-radius: 15px !important;
-    padding: 15px !important; /* Marge interne globale du cadre */
 }
 
-.filter-group {
-    margin-bottom: 25px !important; /* Espace entre chaque bloc (Catégorie, Note, etc.) */
+.result-card {
+    background-color: var(--card-bg) !important;
+    border: 2px solid var(--accent-color) !important;
+    border-radius: 15px;
 }
 
 .filter-label {
     font-weight: 600;
-    margin-bottom: 12px !important;
-    display: block;
-    color: var(--accent-color);
-}
-
-/* --- POSTERS --- */
-.poster-item {
-    transition: transform 0.2s ease;
-    text-decoration: none !important;
-}
-
-.poster-item:hover {
-    transform: translateY(-8px);
+    margin-bottom: 15px !important;
+    color: var(--accent-color) !important;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .movie-placeholder {
-    background-color: var(--card-bg) !important;
-    border: 1px solid var(--border-color) !important;
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    transition: transform 0.3s ease;
     color: var(--text-color) !important;
-    font-weight: 600;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-/* --- BOUTONS ET ÉLÉMENTS --- */
-.btn-warning {
-    background-color: var(--accent-color) !important;
-    border: none !important;
-    color: white !important;
-    font-weight: bold !important;
-    padding: 12px !important;
-}
-
-.custom-dropdown .Select-control {
-    border-radius: 8px !important;
-}
-
-/* Ajustement pour que les marques du slider ne collent pas au suivant */
-.rc-slider {
-    margin-bottom: 35px; 
+.poster-item:hover .movie-placeholder {
+    transform: scale(1.05);
+    border-color: var(--accent-color);
 }
