@@ -146,4 +146,4 @@ def update_app(n_clicks, genres, min_rate, min_friends):
     return result, gallery
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=8050)
