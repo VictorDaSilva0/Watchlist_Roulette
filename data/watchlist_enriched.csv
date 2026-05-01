@@ -1,0 +1,578 @@
+Date,Name,Year,Letterboxd URI,PosterURL,AvgRating,Genre
+2024-09-30,Barbie,2023.0,https://boxd.it/bCLK,https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg,3.5,Comédie
+2024-09-30,Everything Everywhere All at Once,2022.0,https://boxd.it/jUk4,https://image.tmdb.org/t/p/w500/qHy7BlA1I3iUEIGp7atsMjSNJSK.jpg,3.9,Action
+2024-09-30,Spider-Man: Across the Spider-Verse,2023.0,https://boxd.it/kSz4,https://image.tmdb.org/t/p/w500/ydaJsTyrRimSQ1dTf2xvrmJKz5b.jpg,4.2,Animation
+2024-09-30,Eternal Sunshine of the Spotless Mind,2004.0,https://boxd.it/6YK,https://image.tmdb.org/t/p/w500/zYSvjW4F16W6drhFtEtNAHAplIN.jpg,4.0,Science-Fiction
+2024-09-30,Kill Bill: Vol. 1,2003.0,https://boxd.it/70w,https://image.tmdb.org/t/p/w500/udRaQKzT0LG4iQFxHLaYjno9uAT.jpg,4.0,Action
+2024-09-30,Dead Poets Society,1989.0,https://boxd.it/2aSg,https://image.tmdb.org/t/p/w500/oHBdsvdlPhzkJZOfax7Oy3X5mm7.jpg,4.2,Drame
+2024-09-30,Challengers,2024.0,https://boxd.it/zld0,https://image.tmdb.org/t/p/w500/wCVIoOlw1NG1dAriVLYRcoQyP6o.jpg,3.5,Drame
+2024-09-30,Jojo Rabbit,2019.0,https://boxd.it/iEBG,https://image.tmdb.org/t/p/w500/1uiuoWE0XUqCZpwWKMQwoFpqjkp.jpg,4.0,Comédie
+2024-09-30,Past Lives,2023.0,https://boxd.it/oNB8,https://image.tmdb.org/t/p/w500/aFAANQwb3dYudPHXaQZX5NwVuTO.jpg,3.9,Drame
+2024-09-30,The Lighthouse,2019.0,https://boxd.it/icFU,https://image.tmdb.org/t/p/w500/8DTJq8btlJHVELjasGCa1mLMXUj.jpg,3.7,Drame
+2024-09-30,Portrait of a Lady on Fire,2019.0,https://boxd.it/jkPq,https://image.tmdb.org/t/p/w500/hZgmfd7XZBlX1HPGW2d8VReFtJX.jpg,1.5,Comédie
+2024-09-30,Asteroid City,2023.0,https://boxd.it/s3ds,https://image.tmdb.org/t/p/w500/76Fx5kjWnoxtHiKifs4wh52f8og.jpg,3.2,Comédie
+2024-09-30,The Watchers,2024.0,https://boxd.it/F6Rw,https://image.tmdb.org/t/p/w500/1oBPaDtQwdqLy1gImjEMARmzWme.jpg,3.2,Fantastique
+2024-09-30,Perfect Days,2023.0,https://boxd.it/ATh8,https://image.tmdb.org/t/p/w500/u2wMco0Uf5JqFLZAEhwIsKRikTS.jpg,3.9,Drame
+2024-09-30,Look Back,2024.0,https://boxd.it/LjA6,https://image.tmdb.org/t/p/w500/47YYsGweJguVEvf8b1Zp3ozkP8c.jpg,4.0,Animation
+2024-09-30,In the Mood for Love,2000.0,https://boxd.it/29tE,https://image.tmdb.org/t/p/w500/9iciwUJTFBbjnmwfgkg6jmt8zHa.jpg,4.0,Drame
+2024-09-30,Babylon,2022.0,https://boxd.it/mM02,https://image.tmdb.org/t/p/w500/vxlBfQANmzReZqtpE2tad9gokf.jpg,3.7,Drame
+2024-09-30,The Big Lebowski,1998.0,https://boxd.it/2b6C,https://image.tmdb.org/t/p/w500/4fdLDGSggKaTkwWWaiX11I4Aoss.jpg,3.9,Comédie
+2024-09-30,Manchester by the Sea,2016.0,https://boxd.it/b2L0,https://image.tmdb.org/t/p/w500/aiQRRGDU6FcQ3yMYMerqS5GyOnC.jpg,3.8,Drame
+2024-09-30,The Bikeriders,2023.0,https://boxd.it/C6Ym,https://image.tmdb.org/t/p/w500/tx6UlWCONmgKIt51dHPWspF4Mgh.jpg,3.3,Crime
+2024-09-30,The Lobster,2015.0,https://boxd.it/7tnw,https://image.tmdb.org/t/p/w500/nSE3MHSJktdxUjWPUKaKREkPAzm.jpg,3.5,Comédie
+2024-09-30,Nocturnal Animals,2016.0,https://boxd.it/bkFu,https://image.tmdb.org/t/p/w500/hc9hYvwAvB0u4WdBrtkJ05VsuSi.jpg,3.7,Drame
+2024-09-30,Sicario,2015.0,https://boxd.it/8i7u,https://image.tmdb.org/t/p/w500/uYMvoFiatbs1G3ybN8Wd8VpJWxn.jpg,3.7,Action
+2024-09-30,Close,2022.0,https://boxd.it/y4qa,https://image.tmdb.org/t/p/w500/cI5HcSYAwGU3gVVBk6TWM2i2Z7s.jpg,3.0,Action
+2024-09-30,The Whale,2022.0,https://boxd.it/tw4c,https://image.tmdb.org/t/p/w500/5jilYAMUKk9U5K9phmbFOEDqfR3.jpg,3.9,Drame
+2024-09-30,Citizen Kane,1941.0,https://boxd.it/71O,https://image.tmdb.org/t/p/w500/89GnRTK1CjJSUelKKHLIPXsVam9.jpg,4.0,Mystère
+2024-09-30,Mars Express,2023.0,https://boxd.it/lATC,https://image.tmdb.org/t/p/w500/JEPbbxkFtRASU1WzeQGRvKqjuO.jpg,3.7,Animation
+2024-09-30,Where the Crawdads Sing,2022.0,https://boxd.it/psLS,https://image.tmdb.org/t/p/w500/leM2Krf87zKSNvT98kpFC2xC7rI.jpg,3.8,Drame
+2024-09-30,Phantom Thread,2017.0,https://boxd.it/e4uc,https://image.tmdb.org/t/p/w500/ihUl0Gqb0BIeOrvYVmHol8CZLv0.jpg,3.7,Drame
+2024-09-30,Atonement,2007.0,https://boxd.it/24ui,https://image.tmdb.org/t/p/w500/tEx2nyFU3WimKeceEZtZg2Jjvky.jpg,3.8,Drame
+2024-09-30,DJ Mehdi: Made in France,2024.0,https://boxd.it/QkA2,,0.0,Inconnu
+2024-09-30,A Silent Voice: The Movie,2016.0,https://boxd.it/d99c,https://image.tmdb.org/t/p/w500/xjeYI75uMBtBjNlJ0cDJZDFg5Yv.jpg,4.2,Animation
+2024-09-30,Prey,2022.0,https://boxd.it/sNBU,https://image.tmdb.org/t/p/w500/69BH9YefDbStihTi0FJhTJxmtDo.jpg,3.8,Thriller
+2024-09-30,Napoleon,2023.0,https://boxd.it/shJM,https://image.tmdb.org/t/p/w500/1aIjlQboX6vZjuR9MWmpYlzZHPP.jpg,3.2,Histoire
+2024-09-30,Turning Red,2022.0,https://boxd.it/ipkq,https://image.tmdb.org/t/p/w500/wmcbGp8IbEkYWQmCJWSRfzeCdP9.jpg,3.7,Animation
+2024-09-30,The Green Knight,2021.0,https://boxd.it/kuy2,https://image.tmdb.org/t/p/w500/omVZ8m4aQAbkk2vHyTlkeBZUc7A.jpg,3.3,Aventure
+2024-09-30,Joker: Folie à Deux,2024.0,https://boxd.it/xBoE,https://image.tmdb.org/t/p/w500/cWJGZAozNQFKLCD8vv4ukw4nJP8.jpg,2.7,Drame
+2024-09-30,"tick, tick... BOOM!",2021.0,https://boxd.it/jz2e,https://image.tmdb.org/t/p/w500/wopPaXrewT53omRIqaSK3cRXOQX.jpg,3.8,Drame
+2024-09-30,The Shape of Water,2017.0,https://boxd.it/dZ5m,https://image.tmdb.org/t/p/w500/c8lQpZWiRgv671BPu9bgzuFkveC.jpg,3.6,Drame
+2024-09-30,Perfect Blue,1997.0,https://boxd.it/1W7A,https://image.tmdb.org/t/p/w500/pTjuiITuZHIii9PSRZjWzTRNwoC.jpg,4.1,Animation
+2024-09-30,Daaaaaalí!,2023.0,https://boxd.it/DzQe,https://image.tmdb.org/t/p/w500/9jlGTo6GiHeri1lx2czChvLzTO3.jpg,3.1,Comédie
+2024-09-30,The Second Act,2024.0,https://boxd.it/HW9q,https://image.tmdb.org/t/p/w500/i8B6lA9sQEVf950pHIuqQH0DPuY.jpg,4.5,Documentaire
+2024-09-30,Hideo Kojima: Connecting Worlds,2023.0,https://boxd.it/GA5E,https://image.tmdb.org/t/p/w500/zRE0oHu3L0AceA80SGgHjic5OZA.jpg,3.4,Documentaire
+2024-10-22,Come and See,1985.0,https://boxd.it/1w9q,https://image.tmdb.org/t/p/w500/zF83kQqjczz4Ox3b5BqIs33OGTd.jpg,0.0,Drame
+2024-10-22,Her,2013.0,https://boxd.it/4O24,https://image.tmdb.org/t/p/w500/nkWXW5blXGmOEoDejRgy83sSb6T.jpg,3.9,Romance
+2024-10-22,The Hunt,2012.0,https://boxd.it/3wEC,https://image.tmdb.org/t/p/w500/omz6L7TUKIneTiC1TsXS7intr5Z.jpg,3.3,Action
+2024-10-22,The Iron Giant,1999.0,https://boxd.it/1Wow,https://image.tmdb.org/t/p/w500/yNN7ViuLLEtobKpbVKhiKmu8FNg.jpg,4.0,Animation
+2024-10-22,Magnolia,1999.0,https://boxd.it/2aze,https://image.tmdb.org/t/p/w500/klhJK5KvHbWkGkO1x5bXzOfQAWp.jpg,3.9,Drame
+2024-10-22,Mommy,2014.0,https://boxd.it/7Uau,https://image.tmdb.org/t/p/w500/3zyQtPg3avKprmJP2gBiYgyWUQC.jpg,4.1,Drame
+2024-10-22,Minari,2020.0,https://boxd.it/mL9M,https://image.tmdb.org/t/p/w500/4d201AGKOe7QnSTqROcoCcvznYG.jpg,3.7,Drame
+2024-10-22,Memories of Murder,2003.0,https://boxd.it/1TSo,https://image.tmdb.org/t/p/w500/fz5NYI8PUmPplu3UA70AOqEDJL7.jpg,4.0,Crime
+2024-10-22,Pan's Labyrinth,2006.0,https://boxd.it/28No,https://image.tmdb.org/t/p/w500/bpzGLrQC5nXvU3wrLtp1TDIKYX9.jpg,3.9,Fantastique
+2024-10-22,Puss in Boots: The Last Wish,2022.0,https://boxd.it/aaie,https://image.tmdb.org/t/p/w500/kO35BwoKHyP1VRulxZJVeEl5dvS.jpg,4.1,Animation
+2024-10-22,Punch-Drunk Love,2002.0,https://boxd.it/20E4,https://image.tmdb.org/t/p/w500/32BsDRGsNgnwyUMsah6KRPUD9tb.jpg,3.6,Romance
+2024-10-22,Suspiria,1977.0,https://boxd.it/1SNW,https://image.tmdb.org/t/p/w500/bfLwAQ27hgSabVsyHe1cT1dHNWp.jpg,3.8,Horreur
+2024-10-22,Vertigo,1958.0,https://boxd.it/2apI,https://image.tmdb.org/t/p/w500/hkhbbSQdsV3U0HtuPugHfx2wOi9.jpg,4.1,Mystère
+2024-11-20,"The French Dispatch of the Liberty, Kansas Evening Sun",2021.0,https://boxd.it/jLP8,https://image.tmdb.org/t/p/w500/s9dee5hXJfA1IMRdy2CBicM0n5P.jpg,3.5,Drame
+2024-11-20,Nomadland,2020.0,https://boxd.it/lnRy,https://image.tmdb.org/t/p/w500/oT7S2WbwJDtrvNsEos8xuUgbBRm.jpg,3.6,Drame
+2024-11-20,Spencer,2021.0,https://boxd.it/qPMG,https://image.tmdb.org/t/p/w500/bLhxd4uW8OjqQtJ4N9E0eWj6rw5.jpg,3.4,Drame
+2024-11-20,El Camino: A Breaking Bad Movie,2019.0,https://boxd.it/kv0q,https://image.tmdb.org/t/p/w500/vGmDs7qGOgST23o9hKwiyGd6WeW.jpg,3.5,Crime
+2024-11-20,Pig,2021.0,https://boxd.it/nzoW,https://image.tmdb.org/t/p/w500/vllb5gl1wToUhPf52K2mYx4XORq.jpg,3.3,Drame
+2024-11-20,The Machinist,2004.0,https://boxd.it/248c,https://image.tmdb.org/t/p/w500/e9lzey90JYiW9LFGEccjvyW2btA.jpg,3.8,Thriller
+2024-11-20,Spring Breakers,2012.0,https://boxd.it/421s,https://image.tmdb.org/t/p/w500/phaTpivsnY1LbXjy0DVwOJPkzHc.jpg,2.6,Drame
+2024-11-20,Amsterdam,2022.0,https://boxd.it/oJ58,https://image.tmdb.org/t/p/w500/AoVl7S2fFhPylmh1EZQJ264IqZ8.jpg,3.0,Mystère
+2024-11-20,Candyman,1992.0,https://boxd.it/1Ys6,https://image.tmdb.org/t/p/w500/ecqjERpfBAFmhnGJeOtmDsWy6m2.jpg,3.4,Drame
+2024-11-20,Shame,2011.0,https://boxd.it/2CxU,https://image.tmdb.org/t/p/w500/jHCW8iwnTBxKA8jB7uwTsy4wiFo.jpg,3.5,Drame
+2024-11-20,At Eternity's Gate,2018.0,https://boxd.it/hI40,https://image.tmdb.org/t/p/w500/rrRG5JbFG8ZnhH4M3WTQgSQdszX.jpg,3.5,Drame
+2024-12-21,Nosferatu,1922.0,https://boxd.it/29TM,https://image.tmdb.org/t/p/w500/fOQeuwmsYJ4sK5Tz8V1Fkzt28AT.jpg,3.4,Horreur
+2024-12-21,A Complete Unknown,2024.0,https://boxd.it/oBYa,https://image.tmdb.org/t/p/w500/tMxg6etnG4mE52Y6EiZvuyQojKq.jpg,3.5,Drame
+2024-12-26,The Odyssey,2026.0,https://boxd.it/QFQU,https://image.tmdb.org/t/p/w500/k12dsDVtARFmr6TbC2hn0c68aw5.jpg,0.0,Aventure
+2024-12-26,Untitled The Batman Sequel,2027.0,https://boxd.it/umDy,https://image.tmdb.org/t/p/w500/hUe1G6Ziwl8b6DaaGHjhG6LQQH8.jpg,0.0,Mystère
+2024-12-26,Dune: Part Three,2026.0,https://boxd.it/ImWe,https://image.tmdb.org/t/p/w500/s6r04BVmT2T2Xr6PbZQYHCI7H2r.jpg,0.0,Science-Fiction
+2025-01-03,Queer,2024.0,https://boxd.it/E4RW,https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg,3.3,Drame
+2025-01-15,The Night of the 12th,2022.0,https://boxd.it/yQoG,https://image.tmdb.org/t/p/w500/aDEi8ClyzBDtKSEIX3enIV4sSXW.jpg,3.5,Crime
+2025-01-21,Mulholland Drive,2001.0,https://boxd.it/297o,https://image.tmdb.org/t/p/w500/x4ZLWoqsXFrkwA1m1T3OQg4P5Z7.jpg,3.9,Thriller
+2025-01-25,The Notebook,2004.0,https://boxd.it/1UNE,https://image.tmdb.org/t/p/w500/t3TvNqHTLU1pMVdjG3lF7dSiG8s.jpg,3.9,Romance
+2025-01-25,Blue Valentine,2010.0,https://boxd.it/MxG,https://image.tmdb.org/t/p/w500/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg,3.5,Drame
+2025-01-25,Kinds of Kindness,2024.0,https://boxd.it/CWPw,https://image.tmdb.org/t/p/w500/lOc5v1hrUoIvPE1RywR0ff3ABsa.jpg,3.2,Drame
+2025-01-27,The Wind That Shakes the Barley,2006.0,https://boxd.it/293Q,https://image.tmdb.org/t/p/w500/w1f3fnnhk406J9YT3SG7FJq4kSz.jpg,3.7,Drame
+2025-01-28,Maria,2024.0,https://boxd.it/Dh4c,https://image.tmdb.org/t/p/w500/nbWDRfRbPC5SY3BOiw1HsEf08LR.jpg,3.2,Histoire
+2025-01-28,Mercato,2025.0,https://boxd.it/KXgI,https://image.tmdb.org/t/p/w500/fOxsQAg1RmICNrh0gdI27UP2DVD.jpg,3.0,Thriller
+2025-01-28,Minority Report,2002.0,https://boxd.it/2aWi,https://image.tmdb.org/t/p/w500/91dfWOkpjlqPkbZDjAjrReFqXQP.jpg,3.7,Science-Fiction
+2025-01-28,Blue Velvet,1986.0,https://boxd.it/29BI,https://image.tmdb.org/t/p/w500/zw0JOpVE5IFE8IfAm8zRX0AkB3O.jpg,3.8,Mystère
+2025-01-28,Twin Peaks,1989.0,https://boxd.it/g8pk,https://image.tmdb.org/t/p/w500/6ZI3togUcKnUlpYzyGmWUFD7ZL8.jpg,4.2,Mystère
+2025-01-28,Lost Highway,1997.0,https://boxd.it/29Wc,https://image.tmdb.org/t/p/w500/wsMW0D5AxoEiwl1e2HUAmmreUYn.jpg,3.8,Drame
+2025-01-28,Twin Peaks: Fire Walk with Me,1992.0,https://boxd.it/27Qw,https://image.tmdb.org/t/p/w500/1uJjOuN7rA66V1Nc6BK4UWIxmIq.jpg,3.7,Drame
+2025-01-28,Twin Peaks: The Return,2017.0,https://boxd.it/hN9O,https://image.tmdb.org/t/p/w500/tfpAwd3v3hxA1Bmz7G8K8AdZApb.jpg,4.0,Documentaire
+2025-01-28,Twin Peaks: The Missing Pieces,2014.0,https://boxd.it/8NH4,https://image.tmdb.org/t/p/w500/20OGZ0jpLwueRGzd4f6KZpifJwi.jpg,3.6,Thriller
+2025-01-31,The Bride!,2026.0,https://boxd.it/HSw6,https://image.tmdb.org/t/p/w500/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg,3.1,Science-Fiction
+2025-02-02,Jackie,2016.0,https://boxd.it/d6bu,https://image.tmdb.org/t/p/w500/9kXL2QGonp0D2ipqoKxEpTK8XRS.jpg,3.7,Crime
+2025-02-04,Avengers: Infinity War,2018.0,https://boxd.it/9vEe,https://image.tmdb.org/t/p/w500/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg,4.1,Aventure
+2025-02-04,Avengers: Endgame,2019.0,https://boxd.it/9vE4,https://image.tmdb.org/t/p/w500/wF7jv3x51hXgkl7t5KHePuRjXc8.jpg,4.1,Aventure
+2025-02-04,Seven Samurai,1954.0,https://boxd.it/2axi,https://image.tmdb.org/t/p/w500/s9Ztg1Z2c2r8YsRH10H8oM3LUIK.jpg,1.9,Action
+2025-02-06,The Vanishing,1988.0,https://boxd.it/1ZTW,https://image.tmdb.org/t/p/w500/mU2KDju2awtNrOnuONfzlFouw7I.jpg,2.9,Thriller
+2025-02-14,Beauty and the Beast,1946.0,https://boxd.it/29UA,https://image.tmdb.org/t/p/w500/3q0cUUmlNtton1fx6ZrQx31MV6v.jpg,3.5,Famille
+2025-02-14,The Ties That Bind Us,2024.0,https://boxd.it/Fuoo,https://image.tmdb.org/t/p/w500/d08JMKxTm630DsFlUdNQni8TVjv.jpg,0.0,Documentaire
+2025-02-15,Snowpiercer,2013.0,https://boxd.it/3Icg,https://image.tmdb.org/t/p/w500/vRr9z33hkI0Hp1gCCtV6s1jbf9.jpg,3.5,Action
+2025-02-15,A Ghost Story,2017.0,https://boxd.it/fb0K,https://image.tmdb.org/t/p/w500/93f53lCc19V6AlxNg94QAhw0kZv.jpg,3.5,Drame
+2025-02-15,The Game,1997.0,https://boxd.it/26vC,https://image.tmdb.org/t/p/w500/gBxCZuieAe8KClWWP1vVijXBlTp.jpg,4.0,Histoire
+2025-02-15,All of Us Strangers,2023.0,https://boxd.it/Bz3C,https://image.tmdb.org/t/p/w500/tNM9eZorWI2meW3rxpenu6YjdtC.jpg,3.7,Romance
+2025-02-16,Cobweb,2023.0,https://boxd.it/qywG,https://image.tmdb.org/t/p/w500/pSnI1LQ5PljtY9oB3IgMwilHO4.jpg,3.2,Horreur
+2025-02-18,Demolition,2015.0,https://boxd.it/9GuY,https://image.tmdb.org/t/p/w500/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg,3.4,Action
+2025-02-18,The Monkey,2025.0,https://boxd.it/Gwiu,https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg,3.0,Horreur
+2025-02-18,Fantastic Mr. Fox,2009.0,https://boxd.it/1WyQ,https://image.tmdb.org/t/p/w500/2l6PJ6ux9b7RqQuQOUg7eL29PLW.jpg,3.9,Aventure
+2025-02-22,Before Sunrise,1995.0,https://boxd.it/2bcU,https://image.tmdb.org/t/p/w500/vLY17UVvhwXpEjnTqTYqlmuO2py.jpg,4.0,Drame
+2025-02-22,The Alto Knights,2025.0,https://boxd.it/CjB6,https://image.tmdb.org/t/p/w500/zvTOD3cRH0iVMsHNOPncFByFU0q.jpg,3.1,Crime
+2025-02-22,Little Fish,2020.0,https://boxd.it/lAFK,https://image.tmdb.org/t/p/w500/xLZJ8gGzz07zv8YDSb2lyjlrGKu.jpg,3.5,Romance
+2025-02-22,Stalker,1979.0,https://boxd.it/28PO,https://image.tmdb.org/t/p/w500/dMnfize1bUFzHUwSoayGJmvrzYZ.jpg,4.0,Science-Fiction
+2025-02-22,Flow,2024.0,https://boxd.it/v1Ei,https://image.tmdb.org/t/p/w500/uqUwD865PnyxEKXVdHrHEL6bRIj.jpg,3.8,Drame
+2025-02-22,12 Angry Men,1957.0,https://boxd.it/2auI,https://image.tmdb.org/t/p/w500/fFXrCl7nBFFaQU3IgTlinvk6vTi.jpg,4.3,Drame
+2025-02-22,Aftersun,2022.0,https://boxd.it/Arw0,https://image.tmdb.org/t/p/w500/wAfdj4F0ctkHBR7sQA1aq4wu3f5.jpg,3.8,Drame
+2025-02-22,The Virgin Suicides,1999.0,https://boxd.it/28JG,https://image.tmdb.org/t/p/w500/yHIAt0xdPis7UwoJuM2AwORsLAM.jpg,3.5,Drame
+2025-02-22,The Shawshank Redemption,1994.0,https://boxd.it/2aHi,https://image.tmdb.org/t/p/w500/t30GjttOdb5At1sYy8b3TOwFgWV.jpg,4.4,Drame
+2025-02-22,Rosemary's Baby,1968.0,https://boxd.it/29zM,https://image.tmdb.org/t/p/w500/yKtdS5oaHEtBUD1Gq4rdOezzWp6.jpg,3.9,Drame
+2025-02-22,An Officer and a Spy,2019.0,https://boxd.it/dZbE,https://image.tmdb.org/t/p/w500/911kntXCM3WiHYcQDIJ4wZZ9CJx.jpg,3.5,Histoire
+2025-02-22,Priscilla,2023.0,https://boxd.it/Cz3k,https://image.tmdb.org/t/p/w500/snqpqeH6FZNJ9LDqO5oCH1OX2n0.jpg,3.4,Drame
+2025-02-22,Jacob's Ladder,1990.0,https://boxd.it/270g,https://image.tmdb.org/t/p/w500/zAp8sGaMXBrO6JidZT3WuIvJ2xx.jpg,3.7,Drame
+2025-02-22,It Follows,2014.0,https://boxd.it/87wo,https://image.tmdb.org/t/p/w500/jh8bol1N8COAGSj4ksrcUNo8xxc.jpg,3.3,Horreur
+2025-02-22,Society of the Snow,2023.0,https://boxd.it/y9aw,https://image.tmdb.org/t/p/w500/nDbV9AUeUc7Zf5vUAqoagF7O8M7.jpg,4.0,Drame
+2025-02-22,Mystic River,2003.0,https://boxd.it/2aAG,https://image.tmdb.org/t/p/w500/1z7IwJBQSKVY7BPLYOOS3ZNWM53.jpg,3.9,Thriller
+2025-02-22,The Haunting of Hill House,2018.0,https://boxd.it/kfJ0,https://image.tmdb.org/t/p/w500/2pNcydTDpe40pIMoBsnZCOKQ81C.jpg,2.7,Horreur
+2025-02-26,The Chronicles of Narnia: Prince Caspian,2008.0,https://boxd.it/26Hy,https://image.tmdb.org/t/p/w500/yIn1vMGG0MLRtkn5etgNeuRpzy4.jpg,3.3,Aventure
+2025-02-26,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010.0,https://boxd.it/1WZs,https://image.tmdb.org/t/p/w500/x8j8rybJYzhAJOwAqjuW01FK8d6.jpg,3.2,Aventure
+2025-02-27,Kick-Ass,2010.0,https://boxd.it/1zaQ,https://image.tmdb.org/t/p/w500/nHg8x8eSkf802zzXTsAPNww2XZn.jpg,3.6,Action
+2025-03-01,Souleymane's Story,2024.0,https://boxd.it/HQVy,https://image.tmdb.org/t/p/w500/jUVmSuqiJ4FTBpkeJe89khym116.jpg,3.8,Drame
+2025-03-04,Parthenope,2024.0,https://boxd.it/FWo2,https://image.tmdb.org/t/p/w500/2mPtKIgMtJZuVbvD4JKVVgRcEeX.jpg,3.3,Drame
+2025-03-04,Lady Bird,2017.0,https://boxd.it/dGNE,https://image.tmdb.org/t/p/w500/gp3TcnurRFTOnWUZZj5QtG16m5d.jpg,3.6,Drame
+2025-03-04,Pride & Prejudice,2005.0,https://boxd.it/24u8,https://image.tmdb.org/t/p/w500/dn2tyLAx5syITEQ9989iQ79eMNW.jpg,4.0,Drame
+2025-03-04,Misericordia,2024.0,https://boxd.it/Efxy,https://image.tmdb.org/t/p/w500/yt63ZiYbA7N2QkUgbCCcNh8v0QD.jpg,3.8,Drame
+2025-03-04,I'm Still Here,2024.0,https://boxd.it/BPEO,https://image.tmdb.org/t/p/w500/wZjMHKktix2nv2OuQgy4xF10I0H.jpg,3.0,Musique
+2025-03-06,Harakiri,1962.0,https://boxd.it/1NTU,https://image.tmdb.org/t/p/w500/y1bgzJiMVTNY4RoNc29eCebio57.jpg,4.2,Action
+2025-03-06,City of God,2002.0,https://boxd.it/2a2a,,0.0,Inconnu
+2025-03-06,The Wizard of Oz,1939.0,https://boxd.it/29Xu,https://image.tmdb.org/t/p/w500/jBIVN3Ot73d4eGlL34T3jI5W0au.jpg,3.8,Aventure
+2025-03-06,Blade Runner,1982.0,https://boxd.it/2bcA,https://image.tmdb.org/t/p/w500/zHKWxyG4j404HVeSYHNH4niUpkW.jpg,4.0,Science-Fiction
+2025-03-06,"Paris, Texas",1984.0,https://boxd.it/29Ts,https://image.tmdb.org/t/p/w500/8NzI0V3xgtfZdSNqQ8YrBgTSjNC.jpg,4.0,Drame
+2025-03-06,Taxi Driver,1976.0,https://boxd.it/2b8y,https://image.tmdb.org/t/p/w500/iyHQrfNsjZlfHJ8hyhNi0yAFnZa.jpg,4.1,Crime
+2025-03-06,Moonlight,2016.0,https://boxd.it/d6bE,https://image.tmdb.org/t/p/w500/6Eg6OfwghmSLVtt2sfGD5YOEFjI.jpg,3.7,Drame
+2025-03-06,Catch Me If You Can,2002.0,https://boxd.it/29VS,https://image.tmdb.org/t/p/w500/nafyoqVGi87AwaV51GSJ0pk97gs.jpg,4.0,Drame
+2025-03-06,Training Day,2001.0,https://boxd.it/27A4,https://image.tmdb.org/t/p/w500/pDctIlugIuDZivzihCAEs7Ofymx.jpg,3.8,Action
+2025-03-06,Ghost in the Shell,1995.0,https://boxd.it/1YYc,https://image.tmdb.org/t/p/w500/f4RuGi7MO7GcEtnEpQO4wqaBBUk.jpg,4.0,Action
+2025-03-06,The Wild Robot,2024.0,https://boxd.it/IWFy,https://image.tmdb.org/t/p/w500/2IUCa73cvvIgZSiJcNtPBf4L5iF.jpg,4.2,Famille
+2025-03-06,The Addams Family,1991.0,https://boxd.it/267g,https://image.tmdb.org/t/p/w500/l2mq3aWw1ze6NsnwEWSWviziWvo.jpg,3.5,Comédie
+2025-03-06,The Prestige,2006.0,https://boxd.it/293w,https://image.tmdb.org/t/p/w500/37Fr7lY4QBHsuxlLJIfTNxW6nGW.jpg,4.1,Drame
+2025-03-06,Lost in Translation,2003.0,https://boxd.it/2b0E,https://image.tmdb.org/t/p/w500/bUDD5bfF5EHzBwPhL9iJeZuHjVE.jpg,3.7,Drame
+2025-03-06,Life of Pi,2012.0,https://boxd.it/37pC,https://image.tmdb.org/t/p/w500/blXairhpLg7HMcs9nGwWjkyfLC1.jpg,3.7,Aventure
+2025-03-06,Birdman or (The Unexpected Virtue of Ignorance),2014.0,https://boxd.it/5RFA,https://image.tmdb.org/t/p/w500/aQiFgaz5e3f0d6t0vjNWsHj53Jy.jpg,3.7,Drame
+2025-03-06,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964.0,https://boxd.it/29eY,https://image.tmdb.org/t/p/w500/3g1CRHeMVLFVM2dcXasu3kBw4qV.jpg,4.1,Comédie
+2025-03-06,Dark Waters,2019.0,https://boxd.it/kaYu,https://image.tmdb.org/t/p/w500/9oxEu0kYMlEnOm6iDvH7QazPnxi.jpg,3.8,Drame
+2025-03-06,The Holdovers,2023.0,https://boxd.it/vHza,https://image.tmdb.org/t/p/w500/8M1uKLT2Pd3ysLDpikUb5XwGSNQ.jpg,3.8,Drame
+2025-03-06,Monster,2023.0,https://boxd.it/DJEM,https://image.tmdb.org/t/p/w500/22hkFwic8nWhj5NKUTA39Fw7Hky.jpg,2.4,Horreur
+2025-03-06,"Crazy, Stupid, Love.",2011.0,https://boxd.it/D9A,https://image.tmdb.org/t/p/w500/wYQ8LLOGoxqVtRTdKPmi1J59FWo.jpg,3.6,Comédie
+2025-03-06,Decision to Leave,2022.0,https://boxd.it/qp9e,https://image.tmdb.org/t/p/w500/2QHFZh7GHrkntKI9Nd6xWSFuwGP.jpg,3.6,Thriller
+2025-03-06,Under the Silver Lake,2018.0,https://boxd.it/dSAs,https://image.tmdb.org/t/p/w500/jhi3jKu5biq5MpnaMzeM5QcfEf1.jpg,3.2,Crime
+2025-03-07,Black Bag,2025.0,https://boxd.it/KRbM,https://image.tmdb.org/t/p/w500/cMy98uNJbNmNooDdYJlzqFJ9KkX.jpg,3.2,Drame
+2025-03-10,On the Silver Globe,1988.0,https://boxd.it/1sAM,https://image.tmdb.org/t/p/w500/8qwRcjV2VbURC9gflzQat1mB4oi.jpg,0.0,Documentaire
+2025-03-11,Trainspotting,1996.0,https://boxd.it/29XY,https://image.tmdb.org/t/p/w500/wSjSdfnVjD6r8Fnn0K8FXz3JciM.jpg,4.0,Drame
+2025-03-11,Steve Jobs,2015.0,https://boxd.it/araG,https://image.tmdb.org/t/p/w500/eUcb82BhRiI58Y9aTZPmNlFTwFi.jpg,3.4,Drame
+2025-03-15,Germinal,1993.0,https://boxd.it/A6y,https://image.tmdb.org/t/p/w500/vmlgwqAVt2ASNWAG88KAnoBxZcp.jpg,3.4,Drame
+2025-03-18,Materialists,2025.0,https://boxd.it/GZlW,https://image.tmdb.org/t/p/w500/ycS4AydmXRWL4uj2vCwJOdfrcVt.jpg,3.2,Romance
+2025-03-19,The Neon Demon,2016.0,https://boxd.it/9AnW,https://image.tmdb.org/t/p/w500/wvF24m4ktOyMZRleuk3kwJhBI0v.jpg,3.2,Horreur
+2025-03-20,Ne Zha,2019.0,https://boxd.it/mKSm,https://image.tmdb.org/t/p/w500/avdkkjd7As6z9HDcaHCVHvGuxVy.jpg,4.1,Action
+2025-03-20,Ne Zha 2,2025.0,https://boxd.it/B2qe,https://image.tmdb.org/t/p/w500/avdkkjd7As6z9HDcaHCVHvGuxVy.jpg,4.1,Action
+2025-03-20,Mirror,1975.0,https://boxd.it/28Q8,https://image.tmdb.org/t/p/w500/oGnBgkG3DmDAte9ZmGs7caY05Pe.jpg,3.2,Drame
+2025-03-24,Darkman,1990.0,https://boxd.it/1YnK,https://image.tmdb.org/t/p/w500/xJ0USH0zWKSq93jEkqiguKnHchR.jpg,3.2,Action
+2025-03-24,The Beast,2023.0,https://boxd.it/yqmk,https://image.tmdb.org/t/p/w500/3q0cUUmlNtton1fx6ZrQx31MV6v.jpg,3.5,Famille
+2025-03-24,Triangle,2009.0,https://boxd.it/1tQG,https://image.tmdb.org/t/p/w500/orJXc0yAZ8PMvlwVorBq2Syj9bD.jpg,3.5,Horreur
+2025-03-24,Fantastic Planet,1973.0,https://boxd.it/1KnQ,https://image.tmdb.org/t/p/w500/5Q9UTzaUPNMUM9Y12zIju56yUFP.jpg,0.0,Fantastique
+2025-03-24,No One Will Save You,2023.0,https://boxd.it/uUO6,https://image.tmdb.org/t/p/w500/9EWycbtdtDv6Oew1c0KQztgEpnt.jpg,3.4,Horreur
+2025-03-24,Shanghai Blues,1984.0,https://boxd.it/4zMG,https://image.tmdb.org/t/p/w500/rmEnMQrgGAnmeTqn3mvbPPmH0c6.jpg,3.5,Comédie
+2025-03-26,Little White Lies,2010.0,https://boxd.it/JiI,https://image.tmdb.org/t/p/w500/4NMuNonLB78xjUq5NdGJyi4CQiR.jpg,2.0,Téléfilm
+2025-03-26,Caché,2005.0,https://boxd.it/2amY,https://image.tmdb.org/t/p/w500/vSIGVNCLDnw1NYH8mgSrxC5jYQn.jpg,3.5,Mystère
+2025-03-26,Dogville,2003.0,https://boxd.it/2a8W,https://image.tmdb.org/t/p/w500/lraVawavIXh5geMlVjpzCw9TGwR.jpg,3.9,Crime
+2025-03-26,Before Sunset,2004.0,https://boxd.it/2bcg,https://image.tmdb.org/t/p/w500/gqPkhjDOSaYcpRwedOtrc5JmZbp.jpg,3.9,Drame
+2025-03-26,Before Midnight,2013.0,https://boxd.it/4ive,https://image.tmdb.org/t/p/w500/phT0ekJ7l5zZ79alwquiqqtSI3r.jpg,3.7,Romance
+2025-03-27,Waves,2019.0,https://boxd.it/jpmy,https://image.tmdb.org/t/p/w500/d3fvwVXYJir2vMnuwviuZnu10SX.jpg,3.7,Romance
+2025-03-27,No Other Land,2024.0,https://boxd.it/KOTG,https://image.tmdb.org/t/p/w500/vJ4oYQiigQubJsgHuq9EfnS3UaB.jpg,4.0,Documentaire
+2025-03-29,Boiling Point,2021.0,https://boxd.it/uo2u,https://image.tmdb.org/t/p/w500/yga4pd5kMH7Zpto8biCjEKVkLAh.jpg,0.0,Animation
+2025-03-30,Frankenstein,1931.0,https://boxd.it/25Te,https://image.tmdb.org/t/p/w500/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg,3.8,Drame
+2025-04-01,A Bug's Life,1998.0,https://boxd.it/1Yyy,https://image.tmdb.org/t/p/w500/wtGgCxW4TylnDAXtIf3yuXixipC.jpg,3.5,Famille
+2025-04-01,The Kingdom of Dreams and Madness,2013.0,https://boxd.it/7oOi,https://image.tmdb.org/t/p/w500/p7uWVv9UaEtk2dEeOsiBKT5MV0m.jpg,3.8,Documentaire
+2025-04-10,Alpha,2025.0,https://boxd.it/N008,https://image.tmdb.org/t/p/w500/iE3P4LFSJCBX5PRWxbPs7DQh7yI.jpg,3.2,Horreur
+2025-04-11,The Phoenician Scheme,2025.0,https://boxd.it/H0Ca,https://image.tmdb.org/t/p/w500/aWucFFSKSo5k6dKn4WQXCQiu6MP.jpg,3.3,Comédie
+2025-04-11,Nightcrawler,2014.0,https://boxd.it/780m,https://image.tmdb.org/t/p/w500/pATJSq0OobFU9DmcKQUqQPpzDET.jpg,3.9,Crime
+2025-04-11,Dallas Buyers Club,2013.0,https://boxd.it/4O8G,https://image.tmdb.org/t/p/w500/euuPpXZhVBZzD0JLghTX7foFY70.jpg,4.0,Drame
+2025-04-11,"Oh, Canada",2024.0,https://boxd.it/G7TU,https://image.tmdb.org/t/p/w500/esWtvuZ6zCA8CpKTsdhdzgMEBuW.jpg,2.9,Drame
+2025-04-11,Case 137,2025.0,https://boxd.it/NoSo,https://image.tmdb.org/t/p/w500/tyswzNTNLWG1WKNVHHH3E8jZpNs.jpg,0.0,Drame
+2025-04-11,Eleanor the Great,2025.0,https://boxd.it/JZLm,https://image.tmdb.org/t/p/w500/w4Ozc5uNnapQUJ3LPNVKaalxjLQ.jpg,3.5,Drame
+2025-04-11,Children of Men,2006.0,https://boxd.it/1Y2i,https://image.tmdb.org/t/p/w500/zvABa9EuAK9XeqBojYyb3Yaahcf.jpg,3.8,Science-Fiction
+2025-04-11,The Florida Project,2017.0,https://boxd.it/dMG0,https://image.tmdb.org/t/p/w500/1Taf2lmuIArvp6zq1jbioUjK1nD.jpg,3.7,Drame
+2025-04-13,Possum,2018.0,https://boxd.it/gW5u,https://image.tmdb.org/t/p/w500/5QOFKSpE7KacBriU95fxG6hmmvr.jpg,3.1,Drame
+2025-04-17,The Tree of Life,2011.0,https://boxd.it/1Zu8,https://image.tmdb.org/t/p/w500/y47kUz3IYdoxKyscG6Bc6EPo59k.jpg,3.4,Drame
+2025-04-17,The Darjeeling Limited,2007.0,https://boxd.it/24as,https://image.tmdb.org/t/p/w500/jg6RMPfBj0RM1GuC9xmskNtF2W6.jpg,3.6,Aventure
+2025-04-22,Valerie and Her Week of Wonders,1970.0,https://boxd.it/NsC,https://image.tmdb.org/t/p/w500/A7NVCFNmqSbULIUpLpQ2IK8kI2O.jpg,3.5,Fantastique
+2025-04-25,Solaris,2002.0,https://boxd.it/27qS,https://image.tmdb.org/t/p/w500/d7j3E7vjLt77QoaFhMwyV8opPUN.jpg,3.0,Drame
+2025-04-25,Donnie Darko,2001.0,https://boxd.it/2b2A,https://image.tmdb.org/t/p/w500/z3gIuT4e4tjCKYEYJChcBI44U21.jpg,3.9,Fantastique
+2025-05-04,Labyrinth of Dreams,1997.0,https://boxd.it/2EuS,,0.0,Inconnu
+2025-05-05,"The Good, the Bad and the Ugly",1966.0,https://boxd.it/2ape,https://image.tmdb.org/t/p/w500/7azviPN9KzEP8DMXYzN2018rlFg.jpg,0.0,Documentaire
+2025-05-06,Lincoln,2012.0,https://boxd.it/2n2s,https://image.tmdb.org/t/p/w500/14qv1Uzxwj6XtOJrQXJVX8J6K9G.jpg,3.4,Histoire
+2025-05-06,It Comes at Night,2017.0,https://boxd.it/eLuk,https://image.tmdb.org/t/p/w500/iKrIuFwXLVL1VnLVkVTN0YlpbFu.jpg,2.9,Drame
+2025-05-07,The Wicker Man,1973.0,https://boxd.it/1KnG,https://image.tmdb.org/t/p/w500/5U0cpOerEu8jeen7T1wfAHZaWTL.jpg,2.2,Horreur
+2025-05-07,Last Shift,2014.0,https://boxd.it/9nda,https://image.tmdb.org/t/p/w500/oSTFMqFpVB4yq9SOIxBp8xZ9jh5.jpg,3.1,Horreur
+2025-05-07,"Prey, Man!",2025.0,https://boxd.it/Szja,https://image.tmdb.org/t/p/w500/9HLhMQYPKJIwrpjh2RvJPyAi6AO.jpg,4.5,Drame
+2025-05-07,Highest 2 Lowest,2025.0,https://boxd.it/LcIC,https://image.tmdb.org/t/p/w500/pkdGVqhvvPZhPeMGdPywdHg3QXk.jpg,2.8,Thriller
+2025-05-12,Fallen Angels,1995.0,https://boxd.it/1UkW,https://image.tmdb.org/t/p/w500/g7PbzbStJNjbamx5z0r2Prp8eae.jpg,1.0,Comédie
+2025-05-12,Coka Chicas,2025.0,https://boxd.it/TooK,https://image.tmdb.org/t/p/w500/fL5TReWJO7dHR3BdJxJ9g93mLLC.jpg,2.6,Thriller
+2025-05-12,20th Century Women,2016.0,https://boxd.it/bqU6,https://image.tmdb.org/t/p/w500/yeheYMM1yXncioZyajwB9nsOBTr.jpg,3.6,Drame
+2025-05-13,Life Itself,2018.0,https://boxd.it/fUda,https://image.tmdb.org/t/p/w500/zqNi306YktVlK0vJ00US2mNfJUV.jpg,3.6,Drame
+2025-05-13,A Good Person,2023.0,https://boxd.it/u8sw,https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg,3.5,Drame
+2025-05-14,Sound of Falling,2025.0,https://boxd.it/Km9K,,0.0,Inconnu
+2025-05-14,Two Prosecutors,2025.0,https://boxd.it/LTvG,https://image.tmdb.org/t/p/w500/iycYd9P7wyw6Oib2fpXZjfqxId3.jpg,3.5,Drame
+2025-05-14,Mission: Impossible – The Final Reckoning,2025.0,https://boxd.it/l7A2,https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg,3.6,Action
+2025-05-15,Chungking Express,1994.0,https://boxd.it/1UDa,https://image.tmdb.org/t/p/w500/fv0KUkKoEr1P6Z0lltVyWwtFg5e.jpg,4.0,Drame
+2025-05-15,Shoplifters,2018.0,https://boxd.it/ifY6,https://image.tmdb.org/t/p/w500/xRv3FbRpbaRm7xW4JGVZEXxmHTv.jpg,5.0,Comédie
+2025-05-16,Arco,2025.0,https://boxd.it/uh7C,https://image.tmdb.org/t/p/w500/rWvbMnqLTpyTHmNii4TrnmgzpcS.jpg,3.8,Aventure
+2025-05-16,Magazine Dreams,2023.0,https://boxd.it/tv1w,https://image.tmdb.org/t/p/w500/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg,3.4,Drame
+2025-05-17,Die My Love,2025.0,https://boxd.it/D5cI,https://image.tmdb.org/t/p/w500/8VOz8WmdALqxpl24HAGvqE3N6JE.jpg,3.1,Drame
+2025-05-17,Pierrot le Fou,1965.0,https://boxd.it/26j2,https://image.tmdb.org/t/p/w500/w4Kn5cAu8i5lWo4Vhd7AuEpkb0k.jpg,3.7,Drame
+2025-05-17,Nouvelle Vague,2025.0,https://boxd.it/LLLQ,https://image.tmdb.org/t/p/w500/pEcAfVyp2XRRoMvlkUdHvgbFqNW.jpg,3.7,Comédie
+2025-05-19,Outer Dark,,https://boxd.it/V0XU,,0.0,Fantastique
+2025-05-21,A Private Life,2025.0,https://boxd.it/NeQs,https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg,4.0,Drame
+2025-05-23,Urchin,2025.0,https://boxd.it/MY30,https://image.tmdb.org/t/p/w500/cciPYt3xl0cz9uq8AjCDmlLFm0c.jpg,3.2,Drame
+2025-05-23,Honey Don't!,2025.0,https://boxd.it/Hurc,https://image.tmdb.org/t/p/w500/gk4boaamflMqJyzQ5hGdxupQ3Qp.jpg,2.8,Comédie
+2025-05-24,The Chronology of Water,2025.0,https://boxd.it/j3pq,https://image.tmdb.org/t/p/w500/xO6hv4t6d8l1K5RGxHu5yCMElv1.jpg,3.1,Drame
+2025-05-24,Modern Times,1936.0,https://boxd.it/25MC,https://image.tmdb.org/t/p/w500/3BBRjJLZVhKbZTKci5kdKwGLynj.jpg,4.1,Comédie
+2025-05-24,Metropolis,1927.0,https://boxd.it/71a,https://image.tmdb.org/t/p/w500/kJENkwzcBSRuvC5uCslT1E49M62.jpg,3.6,Animation
+2025-05-24,Gone with the Wind,1939.0,https://boxd.it/29Fq,https://image.tmdb.org/t/p/w500/z5cBuLqlIho5k6rIqjOVIKbwvg6.jpg,4.0,Drame
+2025-05-24,Fantasia,1940.0,https://boxd.it/29HG,https://image.tmdb.org/t/p/w500/hg5QpPLIvaFEon60Vyo2CK3LB1C.jpg,3.6,Animation
+2025-05-24,The Wages of Fear,1953.0,https://boxd.it/2aSK,https://image.tmdb.org/t/p/w500/qNDjNzSlDW3p4n9PejiYZLjAS75.jpg,3.7,Thriller
+2025-05-24,Ben-Hur,1959.0,https://boxd.it/29RQ,https://image.tmdb.org/t/p/w500/4KH7VM5YyGwxe4kLSNxix2PNTn6.jpg,3.9,Histoire
+2025-05-24,The Ten Commandments,1956.0,https://boxd.it/21mg,https://image.tmdb.org/t/p/w500/u6AiEZCJFGvGzoNS7fJ0NzpWsv7.jpg,3.9,Drame
+2025-05-24,Battleship Potemkin,1925.0,https://boxd.it/29Vo,,0.0,Inconnu
+2025-05-24,All About Eve,1950.0,https://boxd.it/29LI,https://image.tmdb.org/t/p/w500/nOtpigzE1n02tCF1NP2yKyspkbs.jpg,4.0,Drame
+2025-05-24,Lawrence of Arabia,1962.0,https://boxd.it/2wRE,https://image.tmdb.org/t/p/w500/jEXGkKEIuyc6012BFpFJpaGOW5a.jpg,4.0,Aventure
+2025-05-24,Face/Off,1997.0,https://boxd.it/29I0,https://image.tmdb.org/t/p/w500/kEluKUjEKFwCJWrxv2XPC1VTJT4.jpg,3.5,Action
+2025-05-28,It Was Just an Accident,2025.0,https://boxd.it/TX2k,https://image.tmdb.org/t/p/w500/rlpI8BqpCccQ9zx6UlQ72g8KJPb.jpg,3.6,Drame
+2025-05-28,The History of Sound,2025.0,https://boxd.it/xFY2,https://image.tmdb.org/t/p/w500/fljAPAsvXioFeSU9wuYCk4z4cbE.jpg,3.3,Drame
+2025-06-10,The Friends,1994.0,https://boxd.it/3RcE,https://image.tmdb.org/t/p/w500/wvnYBtPpg1PaSEUTtyEkCJlMd1i.jpg,3.9,Documentaire
+2025-06-12,Hoard,2023.0,https://boxd.it/BDGo,https://image.tmdb.org/t/p/w500/ee9oBAe0ny6HkVAunIxbCWxoPMW.jpg,3.5,Drame
+2025-06-19,Chime,2024.0,https://boxd.it/KiS2,https://image.tmdb.org/t/p/w500/i1DVhk8lUBFJvBm0ZIgakUQzOOD.jpg,3.5,Horreur
+2025-06-19,Out of the Furnace,2013.0,https://boxd.it/572i,https://image.tmdb.org/t/p/w500/u8KvAK01cgyDdTuSOYW1fqyurw1.jpg,3.3,Thriller
+2025-06-21,Fractured,2019.0,https://boxd.it/kPL2,https://image.tmdb.org/t/p/w500/vW0EZnfaQjTxeCSa9RpLOG9alLw.jpg,3.4,Thriller
+2025-06-22,Clayface,2026.0,https://boxd.it/RTVm,https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg,0.0,Horreur
+2025-06-22,Bringing Out the Dead,1999.0,https://boxd.it/1ZZK,https://image.tmdb.org/t/p/w500/aXQ8cAv0oiYSQROQK8ySSNbYJew.jpg,3.3,Drame
+2025-06-27,Grenfell: Uncovered,2025.0,https://boxd.it/TNMW,https://image.tmdb.org/t/p/w500/yU66drJZYfzw9Qa7g8uD6sWOzYU.jpg,3.7,Documentaire
+2025-06-28,Vultures,2025.0,https://boxd.it/BSGe,https://image.tmdb.org/t/p/w500/vZMvvcTBbQSzPZf6DkVHSBIpaZD.jpg,2.2,Thriller
+2025-06-28,Gatto,2027.0,https://boxd.it/VE9U,https://image.tmdb.org/t/p/w500/1ckhy2o9Zv06LvnBKHaNCAjo5bD.jpg,0.0,Famille
+2025-07-07,Marie Antoinette,2006.0,https://boxd.it/27Wa,https://image.tmdb.org/t/p/w500/gyZQYEbG4ske29Uh8EO3JFrxq8e.jpg,3.4,Drame
+2025-07-11,Rubber,2010.0,https://boxd.it/P2m,https://image.tmdb.org/t/p/w500/qo353Eg6vCoibKfIYc2geL1tP3P.jpg,3.0,Comédie
+2025-07-11,Mandibles,2020.0,https://boxd.it/nHDK,https://image.tmdb.org/t/p/w500/8YtLJ9xcEHDpE1vsB5fy6PINERZ.jpg,3.2,Comédie
+2025-07-11,Smoking Causes Coughing,2022.0,https://boxd.it/wVl4,https://image.tmdb.org/t/p/w500/o35QcAxtz2gWoT73FpEvsmGWUbQ.jpg,3.0,Comédie
+2025-07-11,Incredible But True,2022.0,https://boxd.it/rBtC,https://image.tmdb.org/t/p/w500/gEUnWeplYfQqCVARsZOgPPDYJe.jpg,3.5,Documentaire
+2025-07-12,When Life Gives You Tangerines,2025.0,https://boxd.it/TRlA,,0.0,Inconnu
+2025-07-12,Raigyo,1997.0,https://boxd.it/1aV8,https://image.tmdb.org/t/p/w500/8DHi6aQDRSJcUWu9k1QexJnG1ZJ.jpg,0.0,Inconnu
+2025-07-13,Bleeder,1999.0,https://boxd.it/1HKs,https://image.tmdb.org/t/p/w500/hYMHjylaf6xvPtbdrx6LbxLrXM6.jpg,3.4,Drame
+2025-07-15,The Edge of Love,2008.0,https://boxd.it/1OQs,https://image.tmdb.org/t/p/w500/uo7ZDvipL2OZu6G44hDP0sjDZ9n.jpg,3.1,Drame
+2025-07-15,The Jacket,2005.0,https://boxd.it/1Y6a,https://image.tmdb.org/t/p/w500/psSlmrl7FgTEoD0CR2D45vhiR6e.jpg,3.5,Drame
+2025-07-18,Cosmopolis,2012.0,https://boxd.it/H4O,https://image.tmdb.org/t/p/w500/cKN3wzDNoGp3LMxZDNhA53dxtqk.jpg,2.8,Drame
+2025-07-20,I Love Peru,2025.0,https://boxd.it/UP3Q,https://image.tmdb.org/t/p/w500/8KMfH8AqCrfg7nK1jcP7LoBOMZh.jpg,2.8,Comédie
+2025-07-20,THX 1138,1971.0,https://boxd.it/29Ww,https://image.tmdb.org/t/p/w500/mWVsJ2Gai3GirouozRMGTqLhC0Z.jpg,3.2,Science-Fiction
+2025-07-25,Reality,2014.0,https://boxd.it/5txC,https://image.tmdb.org/t/p/w500/s5G4IPziILSLmS3eQUw2z1E8No3.jpg,3.2,Drame
+2025-08-05,Shelby Oaks,2024.0,https://boxd.it/zmMK,https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg,2.8,Horreur
+2025-08-05,American Psycho,,https://boxd.it/Lzfy,https://image.tmdb.org/t/p/w500/2DWqsx0vafGcfytSIwhtL5nI1uV.jpg,3.7,Thriller
+2025-08-09,Knight of Cups,2015.0,https://boxd.it/34Qq,https://image.tmdb.org/t/p/w500/yNSLpHwdN25xhs7KMiMyxxSXpWs.jpg,2.9,Drame
+2025-08-09,Good Boy,2025.0,https://boxd.it/SC0q,https://image.tmdb.org/t/p/w500/x0wD4Qxe0wulV0bxarsQ05PqDNF.jpg,3.6,Thriller
+2025-08-09,The Assistant,2019.0,https://boxd.it/neWo,https://image.tmdb.org/t/p/w500/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg,2.8,Horreur
+2025-08-09,The Amateur,2025.0,https://boxd.it/F9NW,https://image.tmdb.org/t/p/w500/gIG2bPJ0E5rxvPWUTpEjw1NE3Su.jpg,3.5,Thriller
+2025-08-13,Breathless,1960.0,https://boxd.it/2aIK,https://image.tmdb.org/t/p/w500/97VzQFnKyrBj6ZZfDn5gNeq3mtV.jpg,3.0,Romance
+2025-08-13,The Usual Suspects,1995.0,https://boxd.it/29XE,https://image.tmdb.org/t/p/w500/h06jDZB4Y9YQJiSGTcUwbhuiUrB.jpg,4.1,Drame
+2025-08-14,Rebooted,2019.0,https://boxd.it/nhco,,0.0,Animation
+2025-08-14,Heaven Knows What,2014.0,https://boxd.it/8P1a,https://image.tmdb.org/t/p/w500/mB6f65y0DYNqQTeKAyWA3yO1faQ.jpg,3.2,Drame
+2025-08-15,mid90s,2018.0,https://boxd.it/fxIa,https://image.tmdb.org/t/p/w500/3E1xlGyNSjakoqzb4ZBcL2uTR24.jpg,3.7,Drame
+2025-08-17,Imperium,2016.0,https://boxd.it/d0N8,https://image.tmdb.org/t/p/w500/fEwo3gZfbeoovdcTyf4o4wATE1r.jpg,3.2,Crime
+2025-08-19,Elephant,2003.0,https://boxd.it/287i,https://image.tmdb.org/t/p/w500/ygkfkGkIDoQLvRK83nNsw3DxLNu.jpg,3.5,Crime
+2025-08-19,The Celebration,1998.0,https://boxd.it/2aCM,https://image.tmdb.org/t/p/w500/ojkDl4RcI0DjxOpvtaDOIpPQpu.jpg,3.2,Famille
+2025-08-19,Ritual,2000.0,https://boxd.it/14z6,https://image.tmdb.org/t/p/w500/9wHsGgLOaGjvJiYd6u5L20vUlI4.jpg,3.0,Horreur
+2025-08-19,Love & Pop,1998.0,https://boxd.it/2sv0,https://image.tmdb.org/t/p/w500/kltDOuF8SxHXlaGSO2Qrkbgc5Rv.jpg,3.5,Drame
+2025-08-21,A Summer's Tale,1996.0,https://boxd.it/183e,https://image.tmdb.org/t/p/w500/nCo4OZ0urKQZ8zIsZBqWv5o8XaJ.jpg,0.0,Inconnu
+2025-08-21,The Green Ray,1986.0,https://boxd.it/t8W,https://image.tmdb.org/t/p/w500/xTwXLr6CjiMDd7MQep7ZvB5ccUB.jpg,3.8,Mystère
+2025-08-21,My Night at Maud's,1969.0,https://boxd.it/Hwo,https://image.tmdb.org/t/p/w500/70HeSPLO98Xnke1b0KlBYfrvF5G.jpg,3.8,Romance
+2025-08-23,"Sorry, Baby",2025.0,https://boxd.it/JKNi,https://image.tmdb.org/t/p/w500/nU3m7YKc5sVOVQmAf8W2KwU9pU6.jpg,3.5,Drame
+2025-08-25,Sonatine,1993.0,https://boxd.it/20TI,https://image.tmdb.org/t/p/w500/pnIpqoDTgHvTHK1QZlySpUfFrEZ.jpg,3.8,Action
+2025-08-28,Loving Vincent,2017.0,https://boxd.it/biIQ,https://image.tmdb.org/t/p/w500/fFVz39m1F94ivrJatqClGWJhYbE.jpg,4.0,Animation
+2025-08-28,Barry Lyndon,1975.0,https://boxd.it/25A2,https://image.tmdb.org/t/p/w500/prwtTDfRbwdNOzjURTabW3UYW0O.jpg,4.0,Drame
+2025-09-07,Bronson,2008.0,https://boxd.it/1GM8,https://image.tmdb.org/t/p/w500/6NF2do8CeQzaNQVpJ993Ek9EP8X.jpg,3.5,Drame
+2025-09-07,Last Days,2005.0,https://boxd.it/28lY,https://image.tmdb.org/t/p/w500/d31FFx2ymTw9UvlK1SO3inDoT4t.jpg,3.5,Drame
+2025-09-07,The Mist,2007.0,https://boxd.it/22r2,https://image.tmdb.org/t/p/w500/dW7yzvfGFHCWlOGJUclrs9fGNV4.jpg,3.5,Horreur
+2025-09-08,The Smashing Machine,2025.0,https://boxd.it/syUC,https://image.tmdb.org/t/p/w500/pUaavx7aSBnJEaF0lDFusIinivw.jpg,3.2,Drame
+2025-09-08,Rosalie,2023.0,https://boxd.it/BDgg,https://image.tmdb.org/t/p/w500/gAaNdxUZzT3XXTmmn5eC5QHc9nh.jpg,3.3,Drame
+2025-09-08,Forever Young,2022.0,https://boxd.it/w2zA,https://image.tmdb.org/t/p/w500/eKbD77BEhhBmFD7ZE9VTi9o8r2K.jpg,3.2,Aventure
+2025-09-10,Lurker,2025.0,https://boxd.it/McHG,https://image.tmdb.org/t/p/w500/3rbY3fjXQpt4sQLQvKD7CT6oJsS.jpg,3.2,Drame
+2025-09-12,Dog 51,2025.0,https://boxd.it/MhAA,,0.0,Famille
+2025-09-12,Christy,2025.0,https://boxd.it/N6Ye,https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg,3.6,Histoire
+2025-09-13,Full Metal Jacket,1987.0,https://boxd.it/2a1Q,https://image.tmdb.org/t/p/w500/cShwwkz4gBBIRj8yFy8TP2tEWZ4.jpg,4.1,Drame
+2025-09-13,Paths of Glory,1957.0,https://boxd.it/29b6,https://image.tmdb.org/t/p/w500/nLGw5N5VLmQR8bPbRMt772FWzCz.jpg,4.1,Guerre
+2025-09-13,The Super Mario Galaxy Movie,2026.0,https://boxd.it/KzPa,https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg,3.4,Famille
+2025-09-13,The Super Mario Bros. Movie,2023.0,https://boxd.it/i8C8,https://image.tmdb.org/t/p/w500/ahMxyHMSJXingQr4yJBMzMU9k42.jpg,3.8,Famille
+2025-09-13,Dumb Money,2023.0,https://boxd.it/tNdU,https://image.tmdb.org/t/p/w500/vfqXX7TIwUqk5pepTDhYpMsesIL.jpg,3.3,Histoire
+2025-09-13,The Fallout,2021.0,https://boxd.it/tViI,https://image.tmdb.org/t/p/w500/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg,3.8,Drame
+2025-09-17,White Right: Meeting the Enemy,2017.0,https://boxd.it/iSFW,https://image.tmdb.org/t/p/w500/ttcJDrBwMaZYZE34DNu2QALc6sw.jpg,4.1,Documentaire
+2025-09-17,Breaking the Waves,1996.0,https://boxd.it/2b1W,https://image.tmdb.org/t/p/w500/xWN0uwOJV11Hh5q1IAQmP8WK8cO.jpg,3.8,Drame
+2025-09-20,The Guyver,1991.0,https://boxd.it/1MYa,https://image.tmdb.org/t/p/w500/zIVKIfTfsdffAdT74KU82KBgtld.jpg,2.8,Science-Fiction
+2025-09-22,Boogie Nights,1997.0,https://boxd.it/23um,https://image.tmdb.org/t/p/w500/qkgnK7CcefeqIThLyNjQasANGRt.jpg,3.8,Drame
+2025-09-29,Romeo + Juliet,1996.0,https://boxd.it/2ama,https://image.tmdb.org/t/p/w500/mszYLUhrxU4wyjx2Q3Z8gKi5QKp.jpg,3.4,Drame
+2025-09-29,Coffee and Cigarettes,2003.0,https://boxd.it/29nc,https://image.tmdb.org/t/p/w500/wIzqEbTuS70XFj4wAykvIJbpbU7.jpg,3.5,Comédie
+2025-09-29,Burnt,2015.0,https://boxd.it/9mVg,https://image.tmdb.org/t/p/w500/lE6ulJxk4vJxe2LjzVKKEkYDrh3.jpg,3.3,Drame
+2025-09-29,Good Time,2017.0,https://boxd.it/fcFu,https://image.tmdb.org/t/p/w500/z5MjEedICxrJNwP7GoAOialXEoe.jpg,3.6,Crime
+2025-09-29,Run,2020.0,https://boxd.it/jVM4,https://image.tmdb.org/t/p/w500/wmuYBsvkIufLOh2CFf0wjBIt3XQ.jpg,2.6,Drame
+2025-09-29,Dangerous Encounters of the First Kind,1980.0,https://boxd.it/3xOy,https://image.tmdb.org/t/p/w500/s6eKTGY7jieUhFiVG1IyqRQ96tH.jpg,3.6,Crime
+2025-09-30,The Master,2012.0,https://boxd.it/2cBG,https://image.tmdb.org/t/p/w500/3O2gado3DDPUkXmTrIrUaojiVft.jpg,3.5,Drame
+2025-10-01,Nouvelle Vague,1990.0,https://boxd.it/1gFU,https://image.tmdb.org/t/p/w500/pEcAfVyp2XRRoMvlkUdHvgbFqNW.jpg,3.7,Comédie
+2025-10-01,The Shrinking Man,2025.0,https://boxd.it/KRVg,https://image.tmdb.org/t/p/w500/AuudZCPI3bcRTJWYFw1eTvKmBZr.jpg,3.8,Science-Fiction
+2025-10-01,The Dogs,2025.0,https://boxd.it/EU7c,https://image.tmdb.org/t/p/w500/3GOUYs33hNsIA0IIfPIVnfyrYX9.jpg,3.3,Horreur
+2025-10-02,Resurrection,2025.0,https://boxd.it/x9DG,https://image.tmdb.org/t/p/w500/ePPdAnGJk9mR1qNxHhGrIhLAo4Q.jpg,3.1,Science-Fiction
+2025-10-02,Hamilton,2020.0,https://boxd.it/kmvE,https://image.tmdb.org/t/p/w500/itaIGLdCu0e28XQOEf7V3chd904.jpg,3.9,Histoire
+2025-10-02,Eddington,2025.0,https://boxd.it/o6MC,https://image.tmdb.org/t/p/w500/8yA7esHh0L3vOl60Qyf4mfBTmMh.jpg,3.2,Western
+2025-10-03,Angst,1983.0,https://boxd.it/1G46,https://image.tmdb.org/t/p/w500/3KH7npZjTS0zFSwkZgQPPw9svaJ.jpg,3.5,Thriller
+2025-10-03,Lamb,2021.0,https://boxd.it/tFwE,https://image.tmdb.org/t/p/w500/lNKzFwqZZqNuXj9KDY00BwrHzcY.jpg,3.2,Drame
+2025-10-03,Eyes Without a Face,1960.0,https://boxd.it/1j9i,https://image.tmdb.org/t/p/w500/ouYUwQA6IGx7CrDjWLHV9MEsS8m.jpg,5.0,Crime
+2025-10-03,End of Watch,2012.0,https://boxd.it/2F5O,https://image.tmdb.org/t/p/w500/tdD47kPosNyKqoQ0ioVV91uBZ6Y.jpg,3.7,Crime
+2025-10-03,American Hustle,2013.0,https://boxd.it/5dz8,https://image.tmdb.org/t/p/w500/jw5XxeZReM8kSvrkadV5XSmniyb.jpg,3.4,Drame
+2025-10-04,Tsunami: Race Against Time,2024.0,https://boxd.it/SviW,,0.0,Inconnu
+2025-10-04,No Time to Die,2021.0,https://boxd.it/cPX2,https://image.tmdb.org/t/p/w500/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg,3.7,Action
+2025-10-08,Arcadian,2024.0,https://boxd.it/DOtu,https://image.tmdb.org/t/p/w500/h4T8Xeydkw53h9uIbulYsss25UF.jpg,3.0,Action
+2025-10-08,In Whose Name?,2025.0,https://boxd.it/R9Sm,https://image.tmdb.org/t/p/w500/2snBAd7RIQucxN1Np3kRpZtRdN8.jpg,3.6,Documentaire
+2025-10-09,Meteors,2025.0,https://boxd.it/M7M2,https://image.tmdb.org/t/p/w500/8svmicBAZZdV8GuCzfXDflgYXIv.jpg,3.4,Drame
+2025-10-12,Grand Illusion,1937.0,https://boxd.it/29Ei,,0.0,Documentaire
+2025-10-13,Frontier(s),2007.0,https://boxd.it/1Q3M,https://image.tmdb.org/t/p/w500/oNESjsZF58heayPplJ1RP55uZZc.jpg,0.0,Documentaire
+2025-10-13,Mirrors,2008.0,https://boxd.it/1Q0y,https://image.tmdb.org/t/p/w500/19utvoMMpqeyY6m0u8S72enIF0C.jpg,3.1,Horreur
+2025-10-13,High Life,2018.0,https://boxd.it/d6bk,https://image.tmdb.org/t/p/w500/kLcqyCqFYmMobD2POYASWMLfNPO.jpg,2.9,Science-Fiction
+2025-10-14,Infinity Pool,2023.0,https://boxd.it/oPSK,https://image.tmdb.org/t/p/w500/oSsJ9DpbGrPIgjGGa9kE2eVlL3m.jpg,3.0,Horreur
+2025-10-16,House of Voices,2004.0,https://boxd.it/1Chg,https://image.tmdb.org/t/p/w500/hgxhXqdSzhIAs2Zo07jpfUyDem1.jpg,2.9,Horreur
+2025-10-17,Skin,2018.0,https://boxd.it/jMiY,https://image.tmdb.org/t/p/w500/mEmH4LrlAj2ksuO46aZHxuBUu8j.jpg,3.5,Drame
+2025-10-17,The Day of the Jackal,2024.0,https://boxd.it/Rr4a,https://image.tmdb.org/t/p/w500/tZrIs41bOuWAbybH44hwV8eqsh3.jpg,3.8,Action
+2025-10-17,The Assassination of Jesse James by the Coward Robert Ford,2007.0,https://boxd.it/24dG,https://image.tmdb.org/t/p/w500/wBAj0sxPnl7mQLSPqsWIwASy773.jpg,3.5,Drame
+2025-10-17,Black Phone 2,2025.0,https://boxd.it/JpbW,https://image.tmdb.org/t/p/w500/dIdsLxoG5bsxpuYIt6GMUQ3pNB9.jpg,3.4,Horreur
+2025-10-17,The Northman,2022.0,https://boxd.it/nK2s,https://image.tmdb.org/t/p/w500/aHUGeJfC7xJkliJK5ivjKrhKBZf.jpg,3.5,Action
+2025-10-18,The Perfect Neighbor,2025.0,https://boxd.it/RSG6,https://image.tmdb.org/t/p/w500/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg,3.4,Crime
+2025-10-19,Rampo Noir,2005.0,https://boxd.it/KNM,https://image.tmdb.org/t/p/w500/n0pN5NBoOidNNANxX8TFWNOYKmj.jpg,2.9,Fantastique
+2025-10-21,The Last Temptation of Christ,1988.0,https://boxd.it/1ULe,https://image.tmdb.org/t/p/w500/oPEvZqCGG2bbMfxWZWtay0LEqOh.jpg,3.6,Drame
+2025-10-21,If I Had Legs I'd Kick You,2025.0,https://boxd.it/HUtS,https://image.tmdb.org/t/p/w500/ua6xDVAQ58zasCEfbGPVqHJOP70.jpg,3.2,Drame
+2025-10-21,Sunshine,2007.0,https://boxd.it/28Xy,https://image.tmdb.org/t/p/w500/pyj5oX4lucbWnqV3jGyS0gpbJoc.jpg,3.5,Science-Fiction
+2025-10-24,Wind River,2017.0,https://boxd.it/dR3i,https://image.tmdb.org/t/p/w500/yp7ogTlvEvgUIvNXdbfwH68S3i4.jpg,3.7,Crime
+2025-10-25,Banana Fish,2018.0,https://boxd.it/qL4q,https://image.tmdb.org/t/p/w500/evZjwJcWwKJDgJLjw6tLX9HBxQW.jpg,0.0,Inconnu
+2025-10-26,Mandala,1971.0,https://boxd.it/3yj2,https://image.tmdb.org/t/p/w500/uN1Vw8kowX2k0pZkdn7Zyt88IgQ.jpg,0.0,Drame
+2025-10-27,Cure,1997.0,https://boxd.it/1blA,https://image.tmdb.org/t/p/w500/g8NvuhgqBD6LShECh20TPMSNMgC.jpg,3.8,Crime
+2025-10-28,Un Chien Andalou,1929.0,https://boxd.it/29Y8,https://image.tmdb.org/t/p/w500/aZHDeGBqaPXdKagnmecqqY08vum.jpg,3.7,Horreur
+2025-10-29,Tetsuo: The Iron Man,1989.0,https://boxd.it/ZoM,https://image.tmdb.org/t/p/w500/iQbHemqjE4bgbEzfK0wm2CkogDB.jpg,3.5,Horreur
+2025-10-31,Solaris,1972.0,https://boxd.it/2a2Y,https://image.tmdb.org/t/p/w500/d7j3E7vjLt77QoaFhMwyV8opPUN.jpg,3.0,Drame
+2025-11-08,The Stranger,2025.0,https://boxd.it/STpW,https://image.tmdb.org/t/p/w500/9ntpIoDql9ClXNohRWZAvSpIKnr.jpg,3.8,Action
+2025-11-09,Mother,2009.0,https://boxd.it/1m9g,https://image.tmdb.org/t/p/w500/zhDkm8Bs10VDYlpDsq4dnbebzik.jpg,3.5,Horreur
+2025-11-09,The Devils,1971.0,https://boxd.it/1inI,https://image.tmdb.org/t/p/w500/m3EZBMHaB7VJ9pjJJ71fPb70dAR.jpg,3.7,Drame
+2025-11-09,Freaks,1932.0,https://boxd.it/2b3o,https://image.tmdb.org/t/p/w500/j5Yi9gn1xDHa7QdLRFMYnxylFM.jpg,3.9,Drame
+2025-11-10,The Wind Rises,2013.0,https://boxd.it/4JQS,https://image.tmdb.org/t/p/w500/AsWzPlQK2xJTIrzw6McT8Yvy6H2.jpg,3.5,Action
+2025-11-10,Black Bird,2022.0,https://boxd.it/BCSe,https://image.tmdb.org/t/p/w500/zFbZKNQFlgHKA93DisfVCpNuhjm.jpg,2.5,Comédie
+2025-11-12,They Look Like People,2015.0,https://boxd.it/aAEg,https://image.tmdb.org/t/p/w500/srfpn9OxEOpTpsKAhkbA43RsWqj.jpg,3.1,Drame
+2025-11-13,Goodnight Mommy,2014.0,https://boxd.it/8Niy,https://image.tmdb.org/t/p/w500/oHhD5jD4S5ElPNNFCDKXJAzMZ5h.jpg,3.1,Horreur
+2025-11-13,Big Little Lies,2017.0,https://boxd.it/fYde,,0.0,Inconnu
+2025-11-13,Violent Cop,1989.0,https://boxd.it/1Rym,https://image.tmdb.org/t/p/w500/1odb0EJfXxqqOOwsHG4cp75L5Bp.jpg,3.6,Crime
+2025-11-14,Big World,2024.0,https://boxd.it/MKSS,https://image.tmdb.org/t/p/w500/kvRhquopoC2idxgkRYnbVN4q2B3.jpg,4.0,Drame
+2025-11-15,The Handmaiden,2016.0,https://boxd.it/948A,https://image.tmdb.org/t/p/w500/oLALU5qhYbz995SfcSbrxE2zmYM.jpg,0.0,Documentaire
+2025-11-16,I Saw the Devil,2010.0,https://boxd.it/FaK,,0.0,Action
+2025-11-16,Nobody,2012.0,https://boxd.it/dxH8,https://image.tmdb.org/t/p/w500/jKRzh9y5YjYNISbeh55FQwetsSu.jpg,3.9,Action
+2025-11-16,The Conformist,1970.0,https://boxd.it/20cE,https://image.tmdb.org/t/p/w500/cZKGGfJJXiTLRWp5NInxddQH2oP.jpg,2.5,Animation
+2025-11-16,Under the Skin,2013.0,https://boxd.it/3mDa,https://image.tmdb.org/t/p/w500/zE2EAofyZq33fWViMB6bwwHQDHw.jpg,3.0,Drame
+2025-11-16,Thelma,2017.0,https://boxd.it/e7Ce,https://image.tmdb.org/t/p/w500/3iBFj4jc0ik32eIG9QG1OKY6T1J.jpg,3.8,Drame
+2025-11-16,It has to be lived once and dreamed twice,2019.0,https://boxd.it/loGQ,https://image.tmdb.org/t/p/w500/wfy3BE3XnhZEzyJNr9TOEYrC3n1.jpg,3.9,Animation
+2025-11-16,Terrified,2017.0,https://boxd.it/hCyy,https://image.tmdb.org/t/p/w500/cPLJqMDso4vA5q4UBma5ABaciEP.jpg,3.4,Horreur
+2025-11-16,The Medium,2021.0,https://boxd.it/s0oi,https://image.tmdb.org/t/p/w500/j1cGgc8QDExLtTNcFlBKSxWTSnn.jpg,3.5,Horreur
+2025-11-16,The Borderlands,2013.0,https://boxd.it/6dIw,https://image.tmdb.org/t/p/w500/dNtkysYSyE3FcUGbdkooDckD16Y.jpg,2.8,Horreur
+2025-11-16,Threads,1984.0,https://boxd.it/1I0g,https://image.tmdb.org/t/p/w500/lBhU4U9Eehr9shstPem6I7BdkxK.jpg,3.8,Guerre
+2025-11-16,The Players,2025.0,https://boxd.it/SMEU,,0.0,Comédie
+2025-11-17,When Evil Lurks,2023.0,https://boxd.it/rXBe,https://image.tmdb.org/t/p/w500/rwuI0qezt0hoXKSzZiA8wOLdeDk.jpg,3.6,Horreur
+2025-11-17,In My Skin,2002.0,https://boxd.it/283A,https://image.tmdb.org/t/p/w500/yScq7RXY0KN1Ww5IKo5nyWIGMMU.jpg,0.0,Drame
+2025-11-17,May the Devil Take You,2018.0,https://boxd.it/j3Ha,https://image.tmdb.org/t/p/w500/ozGjFX91USmwJW0Dj6fsUvYmHSg.jpg,3.1,Horreur
+2025-11-17,I Saw the TV Glow,2024.0,https://boxd.it/woVe,https://image.tmdb.org/t/p/w500/kdiear4U0aiaSt36SAAnOd4v17A.jpg,3.0,Drame
+2025-11-24,Pacifiction,2022.0,https://boxd.it/pOfa,https://image.tmdb.org/t/p/w500/oXkEO5QBW7EG24BjGm9LqIJ1rpt.jpg,3.1,Drame
+2025-11-24,The Death of Louis XIV,2016.0,https://boxd.it/cTOo,https://image.tmdb.org/t/p/w500/4OvCTzWGpV7OpTSXZRac0oZf7Oe.jpg,3.2,Drame
+2025-11-24,Afternoons of Solitude,2024.0,https://boxd.it/APRc,https://image.tmdb.org/t/p/w500/vphasWLt3xYquV7Me04iYrMwD91.jpg,3.5,Documentaire
+2025-11-24,The Dying Rooms,1995.0,https://boxd.it/5D9g,https://image.tmdb.org/t/p/w500/gNNDITbwdD9Ju8hQRIltXh2Azof.jpg,3.5,Documentaire
+2025-11-24,Orozco the Embalmer,2001.0,https://boxd.it/3yFW,https://image.tmdb.org/t/p/w500/e435dwMvWmqUCRFgvIegl3kZrqo.jpg,3.1,Documentaire
+2025-11-24,How to Die in Oregon,2011.0,https://boxd.it/2dK,https://image.tmdb.org/t/p/w500/iwF3Fw0zGB6mI4Jp4CNynG91H86.jpg,4.0,Documentaire
+2025-11-29,I Am Sam,2001.0,https://boxd.it/1V04,https://image.tmdb.org/t/p/w500/vCkKyDtc3frVtalsaIFMh8HNiXn.jpg,3.8,Drame
+2025-11-30,She Rides Shotgun,2025.0,https://boxd.it/JoCs,https://image.tmdb.org/t/p/w500/gqWCnMLPOAWuD5HbUs4GNv3AGSj.jpg,3.5,Action
+2025-11-30,Legend,2015.0,https://boxd.it/8qZY,https://image.tmdb.org/t/p/w500/dSkSEcVXUEBvOkyYAF00zvRdKrO.jpg,3.6,Drame
+2025-11-30,Dark Water,2002.0,https://boxd.it/1Sik,https://image.tmdb.org/t/p/w500/6Bm0bs6QiNUyt26Ci4FVCQG7ab3.jpg,3.4,Horreur
+2025-12-01,The Voice of Hind Rajab,2025.0,https://boxd.it/UXdO,https://image.tmdb.org/t/p/w500/vDXQUZOfXhhjpz7KMpL267ouyLU.jpg,4.0,Drame
+2025-12-02,Mother Mary,2026.0,https://boxd.it/FILw,https://image.tmdb.org/t/p/w500/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg,2.7,Musique
+2025-12-03,Portrait of God,,https://boxd.it/ZimK,,0.0,Horreur
+2025-12-03,Evil Dead II,1987.0,https://boxd.it/29Ge,https://image.tmdb.org/t/p/w500/b3t9SIfnsiDZasS2jVklsCMw3ZM.jpg,3.8,Horreur
+2025-12-03,The Evil Dead,1981.0,https://boxd.it/29Go,https://image.tmdb.org/t/p/w500/4t8RzPZTo9QXeqenYL0JsLrz7aR.jpg,3.6,Horreur
+2025-12-03,Untitled Jordan Peele Film,,https://boxd.it/FHH4,https://image.tmdb.org/t/p/w500/2cGGBdKZhWZzm7bMKjYqmOZZMcL.jpg,0.0,Horreur
+2025-12-03,Candyman,2021.0,https://boxd.it/kHFg,https://image.tmdb.org/t/p/w500/ecqjERpfBAFmhnGJeOtmDsWy6m2.jpg,3.4,Drame
+2025-12-03,Monkey Man,2024.0,https://boxd.it/kvsO,https://image.tmdb.org/t/p/w500/qpMgYXpPAU8jHrr6mjXJ4egbJ2i.jpg,3.4,Action
+2025-12-05,Strip-Tease intégral,2025.0,https://boxd.it/QjFK,https://image.tmdb.org/t/p/w500/uPmmzgcMqViBRjednv2G0vaBqFI.jpg,3.3,Documentaire
+2025-12-05,The Irishman,2019.0,https://boxd.it/dYOq,https://image.tmdb.org/t/p/w500/W9xPACmHuhFC0xHwpyFvGbapUT.jpg,3.8,Crime
+2025-12-05,Licorice Pizza,2021.0,https://boxd.it/qTKY,https://image.tmdb.org/t/p/w500/pGrVtvGNFmDqyNTMOru7VYQW3al.jpg,3.5,Drame
+2025-12-05,The Thin Red Line,1998.0,https://boxd.it/1ZTM,https://image.tmdb.org/t/p/w500/lI1idojUCegX0e6CPMooNugb7O5.jpg,3.7,Drame
+2025-12-05,Carlito's Way,1993.0,https://boxd.it/226e,https://image.tmdb.org/t/p/w500/cjki1jkGhrDhs9ir1dV7qsCqeXz.jpg,3.9,Crime
+2025-12-11,Hamnet,2025.0,https://boxd.it/woVy,https://image.tmdb.org/t/p/w500/slwXcH3iTRUe9ywOa4teTSzAGeB.jpg,3.9,Drame
+2025-12-11,The Worst Person in the World,2021.0,https://boxd.it/oyws,https://image.tmdb.org/t/p/w500/yfoudnQdfTkg1eibIovxNBSasI9.jpg,2.6,Documentaire
+2025-12-11,The Curious Case of Benjamin Button,2008.0,https://boxd.it/23Fk,https://image.tmdb.org/t/p/w500/17hzD5UG3RLq0BTszufC9mzXynd.jpg,3.8,Drame
+2025-12-11,Hamlet,1996.0,https://boxd.it/1VZc,https://image.tmdb.org/t/p/w500/cB7iIJHS4U2Uvhx41L44GML9Oab.jpg,4.1,Drame
+2025-12-11,Love & Death,2023.0,https://boxd.it/Gdw8,https://image.tmdb.org/t/p/w500/kltDOuF8SxHXlaGSO2Qrkbgc5Rv.jpg,3.5,Drame
+2025-12-11,Eyes Wide Shut,1999.0,https://boxd.it/2axs,https://image.tmdb.org/t/p/w500/zrkNeLqUBm6bE2cqY5SBiM6LIf8.jpg,3.7,Drame
+2025-12-12,The Moment,2026.0,https://boxd.it/SCkg,https://image.tmdb.org/t/p/w500/A0yuyel8MvAxnxtfVOtdSuuMOA5.jpg,3.0,Musique
+2025-12-13,Happyend,2024.0,https://boxd.it/rnUa,https://image.tmdb.org/t/p/w500/cmJogbqfmdA6KImAqDO6g9sRUtV.jpg,3.5,Drame
+2025-12-14,Burning,2018.0,https://boxd.it/hHUa,https://image.tmdb.org/t/p/w500/oDnFVjWyce1LWcXCx3Hpoy30KKG.jpg,3.7,Mystère
+2025-12-15,From Paris with Love,2010.0,https://boxd.it/1tXs,https://image.tmdb.org/t/p/w500/6nJ6UiJTUxN6jpBUKm2jpNYjglo.jpg,3.2,Action
+2025-12-15,Primer,2004.0,https://boxd.it/6YA,https://image.tmdb.org/t/p/w500/92XglEsC6pnhBt1pxJYRFNRgs4F.jpg,3.4,Science-Fiction
+2025-12-16,Kika,2025.0,https://boxd.it/O7vk,https://image.tmdb.org/t/p/w500/3NWeSt36dPOHvg1xD2aRRSwthgg.jpg,3.2,Comédie
+2025-12-16,Wake Up Dead Man,2025.0,https://boxd.it/uAKS,https://image.tmdb.org/t/p/w500/qlUqHz8M1x3a2gZSggXY2t1qhNo.jpg,3.6,Thriller
+2025-12-16,Eternity,2025.0,https://boxd.it/LYtK,https://image.tmdb.org/t/p/w500/c4qswPl8PwnJnyz12m8zVjymWAF.jpg,3.5,Romance
+2025-12-16,1408,2007.0,https://boxd.it/25Vu,https://image.tmdb.org/t/p/w500/pP1EY1gp9hKrILIHyUivISwOedF.jpg,3.3,Horreur
+2025-12-17,De Gaulle: Tilting Iron (Film 1),2026.0,https://boxd.it/I688,https://image.tmdb.org/t/p/w500/zZXEU4MMC3W0fYzgdw4ONhMpeeP.jpg,0.0,Histoire
+2025-12-17,De Gaulle: The Sovereign Edge (Film 2),2026.0,https://boxd.it/I68i,https://image.tmdb.org/t/p/w500/zH2fFPezB58VbxuLZ51CEJI970g.jpg,0.0,Histoire
+2025-12-17,Disclosure Day,2026.0,https://boxd.it/MDJY,https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg,0.0,Mystère
+2025-12-17,Vanilla Sky,2001.0,https://boxd.it/27TK,https://image.tmdb.org/t/p/w500/rP5pOnQ7kZrPOOCGay2Vc1O84Z0.jpg,3.4,Mystère
+2025-12-18,The Secret Agent,2025.0,https://boxd.it/KkUE,https://image.tmdb.org/t/p/w500/tPHoV5WGQROGQmbSw4h8NGWB22c.jpg,2.8,Drame
+2025-12-22,Angel's Egg,1985.0,https://boxd.it/1LeA,https://image.tmdb.org/t/p/w500/pV3ms3vXUxq1GKzPBHtZBdDYguY.jpg,3.2,Drame
+2025-12-25,Alleluia,2014.0,https://boxd.it/867M,https://image.tmdb.org/t/p/w500/tplgL2sRXigiz7vINH8kwsbwo8L.jpg,3.0,Horreur
+2025-12-26,Ollie,2024.0,https://boxd.it/GWpG,https://image.tmdb.org/t/p/w500/r11ctYTaP5rhlgJNUakM5uAuWcy.jpg,3.5,Comédie
+2025-12-27,Werwulf,2026.0,https://boxd.it/SC72,https://image.tmdb.org/t/p/w500/80dcSFTyC97dkgvskEb4fJvlfrl.jpg,0.0,Horreur
+2025-12-28,Hardcore Henry,2015.0,https://boxd.it/aAIM,https://image.tmdb.org/t/p/w500/npSg63pVyGbUbPfWg7wYT7x0pqI.jpg,3.2,Action
+2025-12-28,Caught by the Tides,2024.0,https://boxd.it/GZ4Q,https://image.tmdb.org/t/p/w500/wpXCtZ49sIUMDOjbQOQxqvGjEpP.jpg,3.4,Drame
+2025-12-28,The Life of Chuck,2024.0,https://boxd.it/vMTu,https://image.tmdb.org/t/p/w500/gSJzgltK1mx2m6SNQhStbXiqu7l.jpg,3.6,Fantastique
+2026-01-01,Magellan,2025.0,https://boxd.it/APTM,https://image.tmdb.org/t/p/w500/dtdhkxH8JVwauuGBxkt4YLA0wJf.jpg,2.5,Thriller
+2026-01-01,Les Misérables,2026.0,https://boxd.it/LdqO,https://image.tmdb.org/t/p/w500/aqs9t5mktuuQHUzAMrfvwlI0bXG.jpg,3.7,Histoire
+2026-01-01,The Dog Stars,2026.0,https://boxd.it/RfZI,https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg,0.0,Aventure
+2026-01-01,Tell Her That I Love Her,2025.0,https://boxd.it/KnGA,https://image.tmdb.org/t/p/w500/fZYZOoSkUPAS4obssi9ftbZf3cb.jpg,0.0,Romance
+2026-01-04,Kiss Kiss Bang Bang,2005.0,https://boxd.it/23c8,https://image.tmdb.org/t/p/w500/zsKglygUu0RdiMXE2bJ2yW4eheb.jpg,3.6,Comédie
+2026-01-07,The Talented Mr. Ripley,1999.0,https://boxd.it/2924,https://image.tmdb.org/t/p/w500/vU4qTwtFpYF5EDsQwxqn4B83hzk.jpg,3.6,Thriller
+2026-01-07,Closer,2004.0,https://boxd.it/270K,https://image.tmdb.org/t/p/w500/kB4UDnhIjWOIUzSOleJFloUskZh.jpg,3.4,Drame
+2026-01-07,The Pop Out: Ken & Friends,2024.0,https://boxd.it/NQLK,https://image.tmdb.org/t/p/w500/2aVRJv0JRWAQMPKlen7DxHZ5h2r.jpg,4.1,Musique
+2026-01-07,The Death of Robin Hood,2026.0,https://boxd.it/N08c,https://image.tmdb.org/t/p/w500/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg,0.0,Drame
+2026-01-07,Nuremberg,2025.0,https://boxd.it/K6qU,https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg,3.7,Histoire
+2026-01-07,Mad God,2021.0,https://boxd.it/vVPm,https://image.tmdb.org/t/p/w500/8BjdIXNjQEPRiRMGdIIbWW5iGFR.jpg,3.4,Animation
+2026-01-07,Shin Kamen Rider,2023.0,https://boxd.it/uDlw,https://image.tmdb.org/t/p/w500/jfHTnM6eS6cA3x84UimGg2LZ6g8.jpg,3.5,Action
+2026-01-07,Elden Ring,2028.0,https://boxd.it/V9Le,https://image.tmdb.org/t/p/w500/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg,0.0,Fantastique
+2026-01-07,Death Stranding,,https://boxd.it/Ebcw,https://image.tmdb.org/t/p/w500/wWGRdTiGdLEEunKcDORmPpQJ0jo.jpg,0.0,Science-Fiction
+2026-01-07,Untitled Julia Ducournau & A24 Project,,https://boxd.it/GqMe,https://image.tmdb.org/t/p/w500/sOmS7EMikR5Vg3S9s0SK0igKiWG.jpg,0.0,Inconnu
+2026-01-09,Army of Shadows,1969.0,https://boxd.it/1Mli,https://image.tmdb.org/t/p/w500/16avMvgntKF11dBuaWG7DXYubKc.jpg,2.5,Documentaire
+2026-01-09,Le Samouraï,1967.0,https://boxd.it/22ZI,https://image.tmdb.org/t/p/w500/uuA4ng9thWpFVFpHMR5FtlKaaTD.jpg,3.9,Crime
+2026-01-11,Days of Glory,2006.0,https://boxd.it/27CO,https://image.tmdb.org/t/p/w500/yP3I5QXTACvaDxbleI74pXba2sw.jpg,2.9,Guerre
+2026-01-13,Cuckoo,2024.0,https://boxd.it/wMjI,https://image.tmdb.org/t/p/w500/5jEV07RmetkmvuKtnpo7PXO01Vz.jpg,2.9,Horreur
+2026-01-13,Visitor Q,2001.0,https://boxd.it/24DE,https://image.tmdb.org/t/p/w500/wqW1EFQBQ3OBEL0IgXS8kUsNlr3.jpg,3.2,Comédie
+2026-01-13,Eden Lake,2008.0,https://boxd.it/1Q1m,https://image.tmdb.org/t/p/w500/tOg6ElTe1mJwaCFN0172U4oso22.jpg,3.4,Horreur
+2026-01-13,Cloverfield,2008.0,https://boxd.it/2192,https://image.tmdb.org/t/p/w500/zyzGgP5IIkO9d3PQz7me0pPl2vm.jpg,3.4,Action
+2026-01-14,Bone Tomahawk,2015.0,https://boxd.it/9kiw,https://image.tmdb.org/t/p/w500/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg,3.4,Western
+2026-01-14,Scent of a Woman,1992.0,https://boxd.it/1YAu,https://image.tmdb.org/t/p/w500/yNN7uPf6Wj1ixZuzJQmz99KoTae.jpg,3.9,Drame
+2026-01-15,Them,2006.0,https://boxd.it/1VhE,https://image.tmdb.org/t/p/w500/xnBN8xgPHtliU0Zd5XLCVEmsbpw.jpg,3.4,Science-Fiction
+2026-01-16,Reflection in a Dead Diamond,2025.0,https://boxd.it/CjmU,https://image.tmdb.org/t/p/w500/1Zr71SMoBV8NmVvpKA323B1In29.jpg,3.1,Action
+2026-01-16,The Young Girls of Rochefort,1967.0,https://boxd.it/26K8,https://image.tmdb.org/t/p/w500/3196nFZLpf182rNb0BTeRHLUBgK.jpg,0.0,Musique
+2026-01-16,The Gleaners and I,2000.0,https://boxd.it/S6c,https://image.tmdb.org/t/p/w500/581ikn6BkZ08GhKLQpqYJvajdfA.jpg,3.8,Documentaire
+2026-01-16,The Beaches of Agnès,2008.0,https://boxd.it/14Y6,https://image.tmdb.org/t/p/w500/rrN9ag1KfC08eMf5GAzfFUiwcdj.jpg,3.8,Documentaire
+2026-01-16,Faces Places,2017.0,https://boxd.it/g7ck,,0.0,Inconnu
+2026-01-16,Phantom of the Paradise,1974.0,https://boxd.it/1s34,https://image.tmdb.org/t/p/w500/xsaafr6i1jAc9nv6lzhAVoHT6e0.jpg,3.7,Comédie
+2026-01-16,The Crimson Rivers,2000.0,https://boxd.it/ftG,https://image.tmdb.org/t/p/w500/l9SQFzGWvTuP3WszpY8HeDYoNqd.jpg,3.5,Crime
+2026-01-16,The Night House,2020.0,https://boxd.it/jZze,https://image.tmdb.org/t/p/w500/fu54N0Spu9QOEWGTwYgDC4aCrz4.jpg,3.3,Horreur
+2026-01-16,The Ritual,2017.0,https://boxd.it/fo0I,https://image.tmdb.org/t/p/w500/9wHsGgLOaGjvJiYd6u5L20vUlI4.jpg,3.0,Horreur
+2026-01-17,Sender,2026.0,https://boxd.it/UhA2,https://image.tmdb.org/t/p/w500/mBIRSvt2ebgdztuX7F7GwR0iPM0.jpg,3.1,Drame
+2026-01-17,Son of Saul,2015.0,https://boxd.it/b6r4,https://image.tmdb.org/t/p/w500/1ccalhrc3MC1OEuOJNnGLL62f4b.jpg,3.6,Guerre
+2026-01-17,Sunset,2018.0,https://boxd.it/dZ5w,https://image.tmdb.org/t/p/w500/6QmSuYfsKdf4PcRRQj4ijAn1AfB.jpg,4.1,Drame
+2026-01-17,Moulin,2026.0,https://boxd.it/TcO2,https://image.tmdb.org/t/p/w500/3xXftdp7OTQpebMheHGIrg6Nxj.jpg,3.8,Drame
+2026-01-17,Jennifer's Body,2009.0,https://boxd.it/1Efw,https://image.tmdb.org/t/p/w500/zCj7pooszhVxBHCfVjtjPR68pkO.jpg,3.0,Horreur
+2026-01-17,Colours of Time,2025.0,https://boxd.it/KWqC,https://image.tmdb.org/t/p/w500/jVXfeeswPioW7giUcJTKDASYkfg.jpg,0.0,Inconnu
+2026-01-17,"I, Tonya",2017.0,https://boxd.it/dzR0,https://image.tmdb.org/t/p/w500/9Tnm0Vyzmk0x0wNb5AAslgMweT7.jpg,3.8,Drame
+2026-01-17,Burn After Reading,2008.0,https://boxd.it/23BW,https://image.tmdb.org/t/p/w500/AuHddPinWRWM3ZBfGMBm09nuKO1.jpg,3.3,Comédie
+2026-01-17,Signs,2002.0,https://boxd.it/26t2,https://image.tmdb.org/t/p/w500/A5JFVANRBrNbkraAerHjF8h8aLI.jpg,3.3,Thriller
+2026-01-17,Midnight Mass,2021.0,https://boxd.it/wvVA,https://image.tmdb.org/t/p/w500/eLC60UgMSyxzwTb5nsZC5az6pQ2.jpg,0.0,Inconnu
+2026-01-17,Spotlight,2015.0,https://boxd.it/a84k,https://image.tmdb.org/t/p/w500/bY4K4gkDjJCNsNLHhdDPApTZiE.jpg,3.9,Drame
+2026-01-18,Detachment,2011.0,https://boxd.it/2BiY,https://image.tmdb.org/t/p/w500/dHpTLiHJEp7xFrEqUuo6dPYo7yv.jpg,3.8,Drame
+2026-01-20,28 Years Later Part 3,,https://boxd.it/MvzG,https://image.tmdb.org/t/p/w500/2loBxp99k59RT8PGmdrLssA17q5.jpg,0.0,Horreur
+2026-01-21,Heel,2025.0,https://boxd.it/R9M4,https://image.tmdb.org/t/p/w500/u8qHMiRkWPhDeL4W85OKA5cahPI.jpg,2.6,Thriller
+2026-01-21,The Mortuary Assistant,2026.0,https://boxd.it/UwbQ,https://image.tmdb.org/t/p/w500/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg,2.8,Horreur
+2026-01-22,The Addiction,1995.0,https://boxd.it/1cZQ,https://image.tmdb.org/t/p/w500/hk26Iu5Bo0NazQh6RBYxjsAfBV0.jpg,3.2,Drame
+2026-01-22,Baby Invasion,2024.0,https://boxd.it/M6VC,https://image.tmdb.org/t/p/w500/vQUMVlgDzKjcTWn7WfZsA8UCAbE.jpg,2.6,Crime
+2026-01-22,Peaked,,https://boxd.it/SRU4,https://image.tmdb.org/t/p/w500/rg2sgyrTYxBSeOCoAVP9P0ZwmtW.jpg,0.0,Comédie
+2026-01-22,Force Majeure,2014.0,https://boxd.it/7UcA,https://image.tmdb.org/t/p/w500/zjrDEZHonoMoWM76TefYZqgHoXh.jpg,3.1,Drame
+2026-01-25,Train Dreams,2025.0,https://boxd.it/LdDo,https://image.tmdb.org/t/p/w500/aQfob5TRbPCIwThSSyUlwXLwoXy.jpg,3.7,Drame
+2026-01-25,Oddity,2024.0,https://boxd.it/K9pg,https://image.tmdb.org/t/p/w500/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg,3.3,Horreur
+2026-01-25,No Other Choice,2025.0,https://boxd.it/nKiA,,0.0,Documentaire
+2026-01-25,Lady Vengeance,2005.0,https://boxd.it/248G,https://image.tmdb.org/t/p/w500/2lyU2RbpTfqiSXimD2hxxcrE7BD.jpg,3.8,Drame
+2026-01-26,The Grandmaster,2013.0,https://boxd.it/QU0,https://image.tmdb.org/t/p/w500/r0OTFVXvwrXnVeKLcgmrbs0NQJN.jpg,3.3,Action
+2026-01-26,The Verge of Death,2023.0,https://boxd.it/EDgQ,https://image.tmdb.org/t/p/w500/zWFqAAGqF5iCHPq4YJSuoRw1F8l.jpg,3.1,Horreur
+2026-01-28,Bodies Bodies Bodies,2022.0,https://boxd.it/iRcE,https://image.tmdb.org/t/p/w500/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg,3.1,Horreur
+2026-01-28,Caveat,2020.0,https://boxd.it/rX5M,https://image.tmdb.org/t/p/w500/nbug05AceVU8PMXIONDFxMRtq54.jpg,3.1,Horreur
+2026-01-28,825 Forest Road,2025.0,https://boxd.it/MXym,https://image.tmdb.org/t/p/w500/mxvRZxq6ACTeJYJZKsHQAhz76yF.jpg,3.1,Horreur
+2026-01-28,Mr. Sardonicus,1961.0,https://boxd.it/1nzu,https://image.tmdb.org/t/p/w500/ez4rSZu4WemlZVtm8Ss09U2Udoo.jpg,3.2,Horreur
+2026-01-31,The Beatles: Paul,2028.0,https://boxd.it/LpR8,https://image.tmdb.org/t/p/w500/cT39aUoRyitmhbB45w5UFKhBRIW.jpg,0.0,Drame
+2026-01-31,The Beatles: George,2028.0,https://boxd.it/LpRi,https://image.tmdb.org/t/p/w500/8CYUp3jCSc86WvkLRGAQcepImeV.jpg,0.0,Drame
+2026-01-31,The Beatles: John,2028.0,https://boxd.it/LpQY,https://image.tmdb.org/t/p/w500/lx8XZ4HvfEZd82M2YuJUy6qNSUR.jpg,0.0,Drame
+2026-01-31,The Beatles: Ringo,2028.0,https://boxd.it/LpRs,https://image.tmdb.org/t/p/w500/ovDjgp1ZBDvLY3Yrh6s7qS8Zxgy.jpg,0.0,Drame
+2026-02-04,I'm Thinking of Ending Things,2020.0,https://boxd.it/i4IQ,https://image.tmdb.org/t/p/w500/za7bbYRRdP6x1uFWa2SPwRjuFa8.jpg,3.3,Mystère
+2026-02-04,National Theatre Live: Romeo and Juliet,2021.0,https://boxd.it/tePY,https://image.tmdb.org/t/p/w500/syBAnhsn2ovAvGEBoMsZjsAIlHX.jpg,3.0,Drame
+2026-02-04,The Crowded Room,2023.0,https://boxd.it/GViY,,0.0,Inconnu
+2026-02-06,Full Phil,,https://boxd.it/XVhq,https://image.tmdb.org/t/p/w500/yHiCY08iWt15PiEaQX1lBSwm1Ze.jpg,0.0,Comédie
+2026-02-09,Cry to Heaven,,https://boxd.it/Sk0M,https://image.tmdb.org/t/p/w500/ps5wvCVpdNZv53YYTwh40tFYnQe.jpg,0.0,Drame
+2026-02-09,The Devil,1972.0,https://boxd.it/3iRC,https://image.tmdb.org/t/p/w500/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg,3.7,Drame
+2026-02-09,Untitled Possession Remake,,https://boxd.it/NJZU,,0.0,Horreur
+2026-02-10,Onslaught,2026.0,https://boxd.it/MYKI,https://image.tmdb.org/t/p/w500/wIbBXwv2PgxRzAg4i9n8pOiqlhe.jpg,0.0,Action
+2026-02-10,King Snake,,https://boxd.it/YBEc,,0.0,Horreur
+2026-02-10,Stan,,https://boxd.it/109ju,https://image.tmdb.org/t/p/w500/eM0yeslbOora00eQSGce0BV66wO.jpg,3.3,Comédie
+2026-02-11,Couture,2025.0,https://boxd.it/Rvc8,https://image.tmdb.org/t/p/w500/mklkSQ3OzmRcoYYcZAr9sE0joU3.jpg,3.5,Drame
+2026-02-11,Penguin's Memory: A Tale of Happiness,1985.0,https://boxd.it/eHl4,https://image.tmdb.org/t/p/w500/yT3s48cvroHTJKdaVhLfwzYjE79.jpg,4.0,Animation
+2026-02-12,Long Day's Journey Into Night,2018.0,https://boxd.it/hw1I,https://image.tmdb.org/t/p/w500/nFupOsOEWt0Q0olnqugNKR690Hn.jpg,5.0,Drame
+2026-02-12,Backrooms,2026.0,https://boxd.it/EY6W,https://image.tmdb.org/t/p/w500/9a5XkgyzuRrsjkbJlJeDU7x4S9J.jpg,0.0,Horreur
+2026-02-14,Hoppers,2026.0,https://boxd.it/OFpg,https://image.tmdb.org/t/p/w500/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg,3.8,Aventure
+2026-02-14,Obsession,2025.0,https://boxd.it/PNqo,https://image.tmdb.org/t/p/w500/bHZTpFju6Bv2kkd0SGU5Jo4sPQl.jpg,3.0,Horreur
+2026-02-20,Cronos,1992.0,https://boxd.it/1TjS,https://image.tmdb.org/t/p/w500/m9IO7OnHjY9ULtS5g0xAlvcm40s.jpg,3.3,Drame
+2026-02-20,Kanawa,1972.0,https://boxd.it/6SYU,https://image.tmdb.org/t/p/w500/gGzLaFpI0Ywx4TcgT5jO08aVg9l.jpg,3.0,Drame
+2026-02-23,A Sad and Beautiful World,2025.0,https://boxd.it/R0hQ,https://image.tmdb.org/t/p/w500/f8YvGEaBf18dNV0TPL6puqH8JuP.jpg,4.0,Romance
+2026-02-25,Ravenous,2017.0,https://boxd.it/eDPk,https://image.tmdb.org/t/p/w500/ilQk6U21wvA0XOMxgL9SaKfmHl5.jpg,3.4,Aventure
+2026-02-25,Sharp Objects,2018.0,https://boxd.it/j3NM,https://image.tmdb.org/t/p/w500/6CEJ1y6SWg49jkMseTlZ8X01z3o.jpg,0.0,Documentaire
+2026-02-28,Comédie-Française,2026.0,https://boxd.it/VC6O,,0.0,Inconnu
+2026-03-01,Two People Exchanging Saliva,2024.0,https://boxd.it/PM3e,https://image.tmdb.org/t/p/w500/yYSYO7neAeB4t75pWtentV60ivz.jpg,3.8,Drame
+2026-03-04,Three Incestuous Sisters,,https://boxd.it/11h7S,https://image.tmdb.org/t/p/w500/dmHF2naE0UNtXTQy75hEdfBeqXN.jpg,0.0,Inconnu
+2026-03-06,In a Violent Nature,2024.0,https://boxd.it/K5eI,https://image.tmdb.org/t/p/w500/nTOcuBNhCoCTlGjWJtPoOu6OlaR.jpg,2.8,Drame
+2026-03-06,In a Violent Nature 2,,https://boxd.it/OrI4,https://image.tmdb.org/t/p/w500/scxO00Kj3JglUyKYODEywmRM9fx.jpg,0.0,Horreur
+2026-03-06,Lee Cronin's The Mummy,2026.0,https://boxd.it/NM9C,https://image.tmdb.org/t/p/w500/f77yGBGOjainowvlGHU70CCQrjV.jpg,3.4,Horreur
+2026-03-07,Julian,2025.0,https://boxd.it/SAUG,https://image.tmdb.org/t/p/w500/AetRdACc6AnYvsh1Q3Nd1uPetPY.jpg,3.4,Comédie
+2026-03-10,Whistle,2025.0,https://boxd.it/JgGm,https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg,3.1,Horreur
+2026-03-10,Alter Ego,2026.0,https://boxd.it/Mhz8,https://image.tmdb.org/t/p/w500/xCJPYlQAmXwvP96qFDZAw18oqk6.jpg,3.3,Comédie
+2026-03-15,Faces of Death,2026.0,https://boxd.it/wiLC,https://image.tmdb.org/t/p/w500/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg,3.4,Horreur
+2026-03-15,Timecrimes,2007.0,https://boxd.it/1OGM,https://image.tmdb.org/t/p/w500/5Q8PhZqktGxNUxsNK5QRKUYw5K1.jpg,3.5,Science-Fiction
+2026-03-15,Fireball: Visitors from Darker Worlds,2020.0,https://boxd.it/l5iA,https://image.tmdb.org/t/p/w500/1tdknhOo03yxMPXxh2n6ibk2ibv.jpg,3.2,Documentaire
+2026-03-16,Anemone,2025.0,https://boxd.it/QxVi,https://image.tmdb.org/t/p/w500/oB69yZFTSzu7Wf16v9WADdDH7Oi.jpg,3.1,Drame
+2026-03-17,Nosferatu the Vampyre,1979.0,https://boxd.it/21J0,https://image.tmdb.org/t/p/w500/4ZlBAf3x4U15SUmcuW3OIJpQ7ox.jpg,3.1,Documentaire
+2026-03-17,Queen Margot,1994.0,https://boxd.it/1Wec,https://image.tmdb.org/t/p/w500/aD5qaw5PPO9dZu0T0mRF6PYRaEA.jpg,5.0,Drame
+2026-03-17,The Third Part of the Night,1971.0,https://boxd.it/Miw,https://image.tmdb.org/t/p/w500/9zLL5zQi26XbZXM9wYWfeSeE7pJ.jpg,3.5,Guerre
+2026-03-18,Kaun?,1999.0,https://boxd.it/4y6Y,https://image.tmdb.org/t/p/w500/2VjU6JpNyWwOrRMeKt1H1xlqwrP.jpg,3.5,Aventure
+2026-03-18,Caged,2010.0,https://boxd.it/nGo,https://image.tmdb.org/t/p/w500/kkGDxfuLZqaBVKb6P6u23wkmpJ7.jpg,3.1,Thriller
+2026-03-19,Orphan,2025.0,https://boxd.it/ue3W,https://image.tmdb.org/t/p/w500/mvY2eNImpHcfF3kAXaVmSf82Ecc.jpg,3.5,Horreur
+2026-03-19,Brothers,2014.0,https://boxd.it/dVNa,https://image.tmdb.org/t/p/w500/8CbDY9GIDkFUkS8Bdr254s25JqD.jpg,3.3,Drame
+2026-03-19,The Tell-Tale Heart,2008.0,https://boxd.it/dmKU,https://image.tmdb.org/t/p/w500/sfUL7qAKjNrPurrpKrxO3Nz6N86.jpg,3.0,Animation
+2026-03-20,A Different Man,2024.0,https://boxd.it/BoEC,https://image.tmdb.org/t/p/w500/zVNgmlgFSnTm9GbT987pU9hcbDt.jpg,3.5,Comédie
+2026-03-22,Say Less,2026.0,https://boxd.it/TJtc,https://image.tmdb.org/t/p/w500/afW2lDdemCVcNlkQF4aIfoB7CAR.jpg,0.0,Comédie
+2026-03-23,Lost Illusions,2021.0,https://boxd.it/oxSW,,0.0,Drame
+2026-03-25,Man Bites Dog,1992.0,https://boxd.it/1X7Q,https://image.tmdb.org/t/p/w500/vl0PbBzxdlSVX5D6QiEZbkwdUBp.jpg,0.0,Thriller
+2026-03-29,How to Make a Killing,2026.0,https://boxd.it/gLi8,https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg,3.5,Comédie
+2026-03-30,A Snake of June,2002.0,https://boxd.it/1fuQ,https://image.tmdb.org/t/p/w500/4hnfqrcXNQwQJD3gwMg7bqSf7o1.jpg,3.4,Romance
+2026-04-01,The Young People,,https://boxd.it/X7vs,https://image.tmdb.org/t/p/w500/AgdCv5eXc1FkEKPx2DSKT7ehzGM.jpg,0.0,Horreur
+2026-04-01,Mermaid Legend,1984.0,https://boxd.it/5bGc,https://image.tmdb.org/t/p/w500/xwId5biRKXV833Zf4oxpvfD24s4.jpg,0.0,Fantastique
+2026-04-01,Godzilla,1954.0,https://boxd.it/28kc,https://image.tmdb.org/t/p/w500/tphkjmQq8WebuVwNXelmjLUXuPJ.jpg,3.2,Action
+2026-04-01,Hokum,2026.0,https://boxd.it/SUeq,https://image.tmdb.org/t/p/w500/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg,3.6,Horreur
+2026-04-01,Persona,1966.0,https://boxd.it/29B4,https://image.tmdb.org/t/p/w500/hR2crInJYk4CaQILBbXLyblCqAm.jpg,4.1,Drame
+2026-04-01,Close Encounters of the Third Kind,1977.0,https://boxd.it/29u8,https://image.tmdb.org/t/p/w500/jznNbJ80WvvlbLdGEjNsvwycDZC.jpg,3.7,Science-Fiction
+2026-04-02,Sibyl,2019.0,https://boxd.it/kum6,https://image.tmdb.org/t/p/w500/eliw2t5CKkTSAFLuupXxT5cTOte.jpg,2.8,Drame
+2026-04-02,Digger,2026.0,https://boxd.it/LwDC,https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg,0.0,Comédie
+2026-04-02,A.I. Artificial Intelligence,2001.0,https://boxd.it/29Ve,https://image.tmdb.org/t/p/w500/lBNahxCHDZ8yCVgmxpuzPytXp4e.jpg,3.5,Drame
+2026-04-02,Exsanguina,2026.0,https://boxd.it/10KWe,https://image.tmdb.org/t/p/w500/eqm5QNyTX9vHhFE0L7vRB2rOItT.jpg,0.0,Horreur
+2026-04-03,The Nightingale,2027.0,https://boxd.it/goge,https://image.tmdb.org/t/p/w500/wlZd6SI0XA6soXIXuG1WPV4HVm8.jpg,3.5,Drame
+2026-04-03,La Vénus électrique,2026.0,https://boxd.it/TopS,https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg,0.0,Comédie
+2026-04-04,Dreams,2025.0,https://boxd.it/GTZw,https://image.tmdb.org/t/p/w500/yzr0n90do0AhWZoRIHelJtTAbYD.jpg,3.2,Romance
+2026-04-09,Ungrateful Beings,2025.0,https://boxd.it/X3FI,https://image.tmdb.org/t/p/w500/zOsThDt7K8TjMHF30Woea68nVIU.jpg,3.5,Drame
+2026-04-14,Unthinkable,2010.0,https://boxd.it/16y0,https://image.tmdb.org/t/p/w500/4UdGi1Von6EBKOLBwTIPpfwfMgI.jpg,3.4,Drame
+2026-04-14,Psycho Killer,2026.0,https://boxd.it/FSNi,https://image.tmdb.org/t/p/w500/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg,2.8,Crime
+2026-04-15,Storm Rider: Legend of Hammerhead,2026.0,https://boxd.it/x09C,https://image.tmdb.org/t/p/w500/l9JjrKhJRmL0PNpnCmMidf9JAt1.jpg,3.3,Aventure
+2026-04-15,Passenger,2026.0,https://boxd.it/QGFo,https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg,0.0,Horreur
+2026-04-16,Godard Mon Amour,2017.0,https://boxd.it/eGLK,https://image.tmdb.org/t/p/w500/q5MhPUi6YziyxjUg1BvAWsIho9A.jpg,3.3,Drame
+2026-04-16,"When Morning Comes, I Feel Empty",2022.0,https://boxd.it/EA72,https://image.tmdb.org/t/p/w500/opWcLjzymHxOZllnspuQc9zXHlY.jpg,2.9,Drame
+2026-04-17,The Night of the Hunter,1955.0,https://boxd.it/25HW,https://image.tmdb.org/t/p/w500/1YFsL1Y7wkCTKUOP7ZdWAAutJT3.jpg,4.0,Crime
+2026-04-17,The Changeling,1980.0,https://boxd.it/1PVy,https://image.tmdb.org/t/p/w500/hvuAfo9RS6282KYFzd1m7IoyHQo.jpg,4.0,Romance
+2026-04-17,Something Very Bad Is Going to Happen,2026.0,https://boxd.it/11QRm,,0.0,Inconnu
+2026-04-18,The Great Beauty,2013.0,https://boxd.it/5ty6,https://image.tmdb.org/t/p/w500/gMkiPNeXV8sk1DLTLVnS1JJjzzB.jpg,3.2,Téléfilm
+2026-04-18,How to Blow Up a Pipeline,2022.0,https://boxd.it/C69e,https://image.tmdb.org/t/p/w500/ocWAivPD9GLe7kQ9mjStnRsL4Z9.jpg,3.2,Crime
+2026-04-19,Matthias & Maxime,2019.0,https://boxd.it/iOQ2,https://image.tmdb.org/t/p/w500/AdI0MdA7w5wORB8ETI0ed6wlbx8.jpg,3.5,Drame
+2026-04-19,I Killed My Mother,2009.0,https://boxd.it/1ubO,https://image.tmdb.org/t/p/w500/fkYoKn0xMwuYiyUgeBgIlan2PM5.jpg,0.0,Inconnu
+2026-04-19,Laurence Anyways,2012.0,https://boxd.it/3HQu,https://image.tmdb.org/t/p/w500/kht5RCRu0hgtNsDIPTy5RygOy64.jpg,3.8,Drame
+2026-04-22,Delirium,2018.0,https://boxd.it/bkvk,https://image.tmdb.org/t/p/w500/2qIcaIt9tr8LD5KtYyenPj2v0kh.jpg,2.7,Horreur
+2026-04-22,"Good Luck, Have Fun, Don't Die",2025.0,https://boxd.it/Glua,https://image.tmdb.org/t/p/w500/peLj36BkjP7zdm5voS5QOoye2kC.jpg,3.5,Science-Fiction
+2026-04-22,Helter Skelter,2012.0,https://boxd.it/3ybW,https://image.tmdb.org/t/p/w500/rctha2z3lZ5YTCo4IE3cUJT4q2D.jpg,3.4,Drame
+2026-04-25,looksMAXXING,,https://boxd.it/10tzC,https://image.tmdb.org/t/p/w500/jeRKifXoa6s9oShE00roNWxt7MN.jpg,0.0,Inconnu
+2026-04-27,Noroi: The Curse,2005.0,https://boxd.it/1BN6,https://image.tmdb.org/t/p/w500/7u7ajjFOCtbCDb6PEcEakve9hdH.jpg,3.5,Horreur
+2026-04-29,Apex,2026.0,https://boxd.it/OjMW,https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg,3.3,Action
+2026-04-29,Verity,2026.0,https://boxd.it/MYia,https://image.tmdb.org/t/p/w500/tHI69tGRRvtOnomig59xwMO1YQI.jpg,0.0,Mystère
+2026-04-30,The Departed,2006.0,https://boxd.it/28MA,https://image.tmdb.org/t/p/w500/xHeuF5zzlx1YxkULiz0mx1TMBJ7.jpg,4.1,Drame
+2026-04-30,The Sadness,2021.0,https://boxd.it/tcHe,https://image.tmdb.org/t/p/w500/bC34TLKRjg7OHhADXhUaSORaARf.jpg,3.4,Horreur

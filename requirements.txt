@@ -5,3 +5,4 @@ python-dotenv
 requests
 dash-mantine-components 
 dash-iconify
+python-dotenv
