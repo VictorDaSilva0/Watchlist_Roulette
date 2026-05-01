@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&family=Montserrat:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&family=Montserrat:wght@400;600&display=swap');
 
 :root {
     --bg-color: #14181c;
@@ -6,7 +6,6 @@
     --text-color: #ffffff;
     --accent-color: #ff8000;
     --border-color: #445566;
-    --muted-text: #9ab;
 }
 
 [data-theme="light"] {
@@ -15,82 +14,60 @@
     --text-color: #2c3440;
     --accent-color: #ff8000;
     --border-color: #d8e0e8;
-    --muted-text: #678;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: var(--bg-color);
     color: var(--text-color);
-    transition: background-color 0.3s ease, color 0.3s ease;
-    margin: 0;
+    transition: 0.3s;
 }
 
-h1, h2, h3, h4 {
-    font-family: 'Poppins', sans-serif;
-    color: var(--text-color) !important;
-}
+h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; }
 
-/* --- CORRECTION FORCEE DES CHIFFRES DU SLIDER --- */
-body .rc-slider-mark-text {
-    color: var(--text-color) !important; /* Force la couleur du thème */
-    opacity: 0.7;
-    font-family: 'Montserrat', sans-serif !important;
-    font-size: 0.8rem !important;
-    top: 15px !important; /* Un peu d'espace sous le curseur */
-}
-
-body .rc-slider-mark-text-active {
-    color: var(--accent-color) !important;
-    opacity: 1;
-    font-weight: 600;
-}
-
-/* On change aussi la couleur des petits points sur la ligne */
-body .rc-slider-dot {
-    border-color: var(--border-color) !important;
-    background-color: var(--card-bg) !important;
-}
-
-/* Animations et Cartes */
-@keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-.result-animation {
-    animation: fadeInUp 0.5s ease-out forwards;
-}
-
-.filter-card {
+/* CARTES & FILTRES */
+.filter-card, .result-card {
     background-color: var(--card-bg) !important;
     border: 1px solid var(--border-color) !important;
+    border-radius: 15px !important;
 }
+.filter-label { color: var(--accent-color); font-weight: 600; display: flex; align-items: center; gap: 8px; }
 
-.result-card {
-    background-color: var(--card-bg) !important;
-    border: 2px solid var(--accent-color) !important;
-    border-radius: 15px;
-}
+/* ANIMATION ROULETTE */
+.result-animation { animation: fadeInUp 0.5s ease-out forwards; }
+@keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
 
-.filter-label {
-    font-weight: 600;
-    margin-bottom: 15px !important;
-    color: var(--accent-color) !important;
+/* POSTERS */
+.movie-poster { box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: 0.3s; }
+.poster-item:hover .movie-poster { transform: scale(1.05); border: 2px solid var(--accent-color); }
+
+/* --- SECTIONS DE GENRES --- */
+.genre-header {
+    padding: 12px 20px;
+    border-radius: 8px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    border-left: 5px solid var(--accent-color);
+    background: linear-gradient(90deg, rgba(255,128,0,0.1) 0%, transparent 100%);
 }
 
-.movie-placeholder {
-    background-color: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 10px;
-    transition: transform 0.3s ease;
-    color: var(--text-color) !important;
-}
+.genre-title { margin-left: 15px; letter-spacing: 2px; font-weight: 700; margin-bottom: 0; }
 
-.poster-item:hover .movie-placeholder {
-    transform: scale(1.05);
-    border-color: var(--accent-color);
-}
+/* Variantes de couleurs par genre */
+.genre-action { border-left-color: #e74c3c; background: linear-gradient(90deg, rgba(231,76,60,0.1) 0%, transparent 100%); }
+.icon-action { color: #e74c3c; }
+
+.genre-horreur { border-left-color: #8e44ad; background: linear-gradient(90deg, rgba(142,68,173,0.1) 0%, transparent 100%); }
+.icon-horreur { color: #8e44ad; }
+
+.genre-science-fiction { border-left-color: #2980b9; background: linear-gradient(90deg, rgba(41,128,185,0.1) 0%, transparent 100%); }
+.icon-science-fiction { color: #2980b9; }
+
+.genre-drame { border-left-color: #f1c40f; background: linear-gradient(90deg, rgba(241,196,15,0.1) 0%, transparent 100%); }
+.icon-drame { color: #f1c40f; }
+
+.genre-comedie { border-left-color: #2ecc71; background: linear-gradient(90deg, rgba(46,204,113,0.1) 0%, transparent 100%); }
+.icon-comedie { color: #2ecc71; }
+
+.genre-thriller { border-left-color: #d35400; background: linear-gradient(90deg, rgba(211,84,0,0.1) 0%, transparent 100%); }
+.icon-thriller { color: #d35400; }
