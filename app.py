@@ -5,168 +5,133 @@ import dash_bootstrap_components as dbc
 import random
 import os
 
-# 1. CONFIGURATION ET CHARGEMENT DES DONNÉES
-# On cherche le fichier dans le dossier 'data'
+# 1. PRÉPARATION DES DONNÉES
 base_path = os.path.dirname(__file__)
 csv_path = os.path.join(base_path, 'data', 'watchlist.csv')
 
 try:
     df = pd.read_csv(csv_path)
-    # Nettoyage des noms de colonnes (parfois il y a des espaces dans l'export)
     df.columns = [c.strip() for c in df.columns]
 except FileNotFoundError:
-    # Création de données factices si le fichier n'existe pas encore pour tester l'interface
-    data = {
-        'Name': ['Inception', 'The Shining', 'Parasite', 'Mad Max'],
-        'Year': [2010, 1980, 2019, 2015],
-        'Letterboxd URI': ['https://letterboxd.com/film/inception/'] * 4
-    }
-    df = pd.DataFrame(data)
+    df = pd.DataFrame({
+        'Name': ['Charger votre CSV', 'Dans le dossier data'],
+        'Year': [2026, 2026],
+        'Letterboxd URI': ['https://letterboxd.com'] * 2
+    })
 
-# --- SIMULATION DES DONNÉES MANQUANTES DANS LE CSV ---
-# (Comme discuté, le CSV Letterboxd ne contient pas les genres/notes par défaut)
-if 'Genre' not in df.columns:
-    genres_possibles = ['Horreur', 'Drame', 'Action', 'Sci-Fi', 'Comédie', 'Thriller']
-    df['Genre'] = [random.choice(genres_possibles) for _ in range(len(df))]
+# Simulation colonnes si absentes
+for col, val in [('Genre', ['Horreur', 'Drame', 'Action']), ('AvgRating', [4.0, 3.5, 4.5]), ('FriendsRating', [3.0, 4.0, 2.0])]:
+    if col not in df.columns:
+        df[col] = [random.choice(val) if isinstance(val, list) else val for _ in range(len(df))]
+        if col != 'Genre': df[col] = [round(random.uniform(2.5, 4.8), 1) for _ in range(len(df))]
 
-if 'AvgRating' not in df.columns:
-    df['AvgRating'] = [round(random.uniform(2.5, 4.8), 1) for _ in range(len(df))]
+# 2. INITIALISATION
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP]) 
 
-if 'FriendsRating' not in df.columns:
-    df['FriendsRating'] = [round(random.uniform(2.0, 5.0), 1) for _ in range(len(df))]
+# 3. LAYOUT
+app.layout = html.Div(id="theme-container", children=[
+    dbc.Container([
+        # Header
+        dbc.Row([
+            dbc.Col(html.H1("🎬 LETTERBOXD ROULETTE", className="text-center my-4", 
+                            style={'color': 'var(--accent-color)', 'fontWeight': '800'}), width=10),
+            dbc.Col(dbc.Button("🌙", id="theme-toggle", color="dark", className="mt-4"), width=2, className="text-end")
+        ], align="center"),
 
-# 2. INITIALISATION DE L'APPLI (Thème Sombre)
-app = dash.Dash(
-    __name__, 
-    external_stylesheets=[dbc.themes.CYBORG],
-    title="Letterboxd Roulette"
-)
+        dbc.Row([
+            # PANNEAU DES FILTRES
+            dbc.Col([
+                dbc.Card([
+                    dbc.CardBody([
+                        html.H4("Filtres", className="mb-4", style={'borderBottom': '1px solid var(--border-color)', 'paddingBottom': '10px'}),
+                        
+                        # Groupe Catégorie
+                        html.Div([
+                            html.Label("Catégorie :", className="filter-label"),
+                            dcc.Dropdown(
+                                id='genre-filter',
+                                options=[{'label': g, 'value': g} for g in sorted(df['Genre'].unique())],
+                                multi=True, className="custom-dropdown"
+                            ),
+                        ], className="filter-group"),
 
-# 3. LAYOUT (INTERFACE)
-app.layout = dbc.Container([
-    # Header
-    dbc.Row([
-        dbc.Col(html.H1("🎬 LETTERBOXD ROULETTE", className="text-center my-4", 
-                        style={'color': '#ff8000', 'fontWeight': 'bold', 'letterSpacing': '2px'}), width=12)
-    ]),
+                        # Groupe Note Générale
+                        html.Div([
+                            html.Label("Note Générale minimum :", className="filter-label"),
+                            dcc.Slider(id='rating-slider', min=0, max=5, step=0.5, value=3,
+                                       marks={i: {'label': str(i), 'style': {'color': 'var(--text-color)'}} for i in range(6)}),
+                        ], className="filter-group"),
 
-    dbc.Row([
-        # PANNEAU DE CONTRÔLE (GAUCHE)
-        dbc.Col([
-            dbc.Card([
-                dbc.CardBody([
-                    html.H4("Filtres", className="card-title mb-4"),
-                    
-                    html.Label("Catégorie :"),
-                    dcc.Dropdown(
-                        id='genre-filter',
-                        options=[{'label': g, 'value': g} for g in sorted(df['Genre'].unique())],
-                        multi=True,
-                        placeholder="Tous les genres",
-                        className="mb-4",
-                        style={'color': '#000'}
-                    ),
-                    
-                    html.Label("Note Moyenne Générale (Min) :"),
-                    dcc.Slider(id='rating-slider', min=0, max=5, step=0.5, value=3,
-                               marks={i: {'label': str(i), 'style': {'color': 'white'}} for i in range(6)},
-                               className="mb-4"),
-                    
-                    html.Label("Note de mes Amis (Min) :"),
-                    dcc.Slider(id='friends-rating-slider', min=0, max=5, step=0.5, value=0,
-                               marks={i: {'label': str(i), 'style': {'color': 'white'}} for i in range(6)},
-                               className="mb-4"),
-                    
-                    dbc.Button("LANCER LA ROULETTE 🎲", id='spin-button', color="warning", 
-                               className="w-100 mt-2", style={'fontWeight': 'bold', 'fontSize': '1.2rem'}),
-                ])
-            ], style={'backgroundColor': '#2c3440', 'border': '1px solid #445566'})
-        ], lg=4, md=12, className="mb-4"),
+                        # Groupe Note Amis
+                        html.Div([
+                            html.Label("Note des Amis minimum :", className="filter-label"),
+                            dcc.Slider(id='friends-slider', min=0, max=5, step=0.5, value=0,
+                                       marks={i: {'label': str(i), 'style': {'color': 'var(--text-color)'}} for i in range(6)}),
+                        ], className="filter-group"),
 
-        # AFFICHAGE DES RÉSULTATS (DROITE)
-        dbc.Col([
-            # Zone du film tiré au sort
-            html.Div(id='roulette-result', className="mb-5"),
-            
-            # Grille des films
-            html.Hr(style={'color': '#445566'}),
-            html.H3("Ma Watchlist Filtrée", className="mb-4", style={'fontSize': '1.4rem'}),
-            html.Div(id='poster-grid', style={
-                'display': 'flex', 
-                'flexWrap': 'wrap', 
-                'justifyContent': 'center',
-                'gap': '15px'
-            })
-        ], lg=8, md=12)
-    ])
-], fluid=True, style={'padding': '20px'})
+                        # Bouton
+                        dbc.Button("LANCER LA ROULETTE 🎲", id='spin-button', color="warning", className="w-100 mt-2")
+                    ])
+                ], className="filter-card")
+            ], lg=4, md=12),
 
-# 4. LOGIQUE (CALLBACK)
+            # ZONE RÉSULTATS
+            dbc.Col([
+                html.Div(id='roulette-result', className="mb-4"),
+                html.Hr(style={'borderColor': 'var(--border-color)', 'margin': '30px 0'}),
+                html.H3("Ma Watchlist Filtrée", className="mb-4", style={'fontSize': '1.3rem', 'fontWeight': '600'}),
+                html.Div(id='poster-grid', style={'display': 'flex', 'flexWrap': 'wrap', 'justifyContent': 'center', 'gap': '20px'})
+            ], lg=8, md=12)
+        ])
+    ], fluid=True)
+], **{"data-theme": "dark"})
+
+# 4. CALLBACKS
 @app.callback(
-    [Output('roulette-result', 'children'),
-     Output('poster-grid', 'children')],
-    [Input('spin-button', 'n_clicks'),
-     Input('genre-filter', 'value'),
-     Input('rating-slider', 'value'),
-     Input('friends-rating-slider', 'value')]
+    [Output("theme-container", "data-theme"), Output("theme-toggle", "children")],
+    [Input("theme-toggle", "n_clicks")],
+    [State("theme-container", "data-theme")],
+    prevent_initial_call=True
 )
-def update_app(n_clicks, selected_genres, min_rating, min_friends_rating):
-    # Filtrage du DataFrame
-    dff = df[
-        (df['AvgRating'] >= min_rating) & 
-        (df['FriendsRating'] >= min_friends_rating)
-    ]
-    
-    if selected_genres:
-        dff = dff[dff['Genre'].isin(selected_genres)]
+def switch_theme(n, current):
+    if current == "dark": return "light", "☀️"
+    return "dark", "🌙"
 
-    # Création de la galerie de posters
-    # Note: On utilise un placeholder coloré car le CSV n'a pas les images
-    gallery = []
-    for _, row in dff.iterrows():
-        movie_card = html.A(
+@app.callback(
+    [Output('roulette-result', 'children'), Output('poster-grid', 'children')],
+    [Input('spin-button', 'n_clicks'), Input('genre-filter', 'value'),
+     Input('rating-slider', 'value'), Input('friends-slider', 'value')]
+)
+def update_app(n_clicks, genres, min_rate, min_friends):
+    dff = df[(df['AvgRating'] >= min_rate) & (df['FriendsRating'] >= min_friends)]
+    if genres: dff = dff[dff['Genre'].isin(genres)]
+
+    gallery = [
+        html.A(
             html.Div([
-                html.Div(row['Name'], style={
-                    'width': '130px', 'height': '190px', 
-                    'backgroundColor': '#445566', 'borderRadius': '8px',
-                    'display': 'flex', 'alignItems': 'center', 'justifyContent': 'center',
-                    'textAlign': 'center', 'padding': '10px', 'fontSize': '0.9rem',
-                    'color': '#fff', 'border': '2px solid #556677'
-                }),
-                html.P(f"⭐ {row['AvgRating']}", className="text-center mt-1", style={'fontSize': '0.8rem'})
+                html.Div(row['Name'], className="movie-placeholder", style={'width': '140px', 'height': '200px'}),
+                html.P(f"⭐ {row['AvgRating']}", className="text-center mt-2", style={'fontSize': '0.8rem', 'color': 'var(--text-color)', 'fontWeight': 'bold'})
             ], className="poster-item"),
-            href=row['Letterboxd URI'], target="_blank", style={'textDecoration': 'none'}
-        )
-        gallery.append(movie_card)
+            href=row['Letterboxd URI'], target="_blank"
+        ) for _, row in dff.iterrows()
+    ]
 
-    # Logique du bouton roulette
-    result = html.Div(
-        dbc.Alert("Sélectionnez vos critères et lancez la roulette !", color="info"),
-        className="text-center"
-    )
-
-    if n_clicks and n_clicks > 0:
-        if not dff.empty:
-            selection = dff.sample(n=1).iloc[0]
-            result = dbc.Card([
-                dbc.Row([
-                    dbc.Col(
-                        html.Div("🎬", style={'fontSize': '5rem', 'textAlign': 'center', 'padding': '20px'}),
-                        width=4, className="d-flex align-items-center justify-content-center"
-                    ),
-                    dbc.Col(dbc.CardBody([
-                        html.H2(selection['Name'], style={'color': '#ff8000'}),
-                        html.H5(f"Année : {selection['Year']}"),
-                        html.P(f"Genre : {selection['Genre']} | Public : {selection['AvgRating']}⭐ | Amis : {selection['FriendsRating']}⭐"),
-                        dbc.Button("VOIR LA FICHE", href=selection['Letterboxd URI'], target="_blank", color="warning", size="sm")
-                    ]), width=8)
-                ])
-            ], style={'backgroundColor': '#14181c', 'border': '2px solid #ff8000', 'borderRadius': '15px'})
-        else:
-            result = dbc.Alert("Aucun film ne correspond à ces critères dans votre watchlist !", color="danger")
+    result = html.P("Ajustez les filtres et lancez la roulette pour choisir votre film du soir !", 
+                    className="text-center", style={'opacity': '0.6', 'marginTop': '20px'})
+    
+    if n_clicks and not dff.empty:
+        sel = dff.sample(n=1).iloc[0]
+        result = dbc.Card([
+            dbc.CardBody([
+                html.H2(sel['Name'], style={'color': 'var(--accent-color)', 'fontWeight': 'bold'}),
+                html.P(f"{sel['Year']}  •  {sel['Genre']}  •  Public: {sel['AvgRating']}⭐  •  Amis: {sel['FriendsRating']}⭐"),
+                dbc.Button("VOIR LA FICHE LETTERBOXD", href=sel['Letterboxd URI'], target="_blank", color="warning", className="mt-2")
+            ])
+        ], className="text-center shadow-lg", style={'border': '2px solid var(--accent-color)'})
+    elif dff.empty:
+        result = dbc.Alert("Aucun film ne correspond à vos critères !", color="danger", className="text-center")
 
     return result, gallery
 
-# 5. EXECUTION
 if __name__ == '__main__':
     app.run(debug=True)

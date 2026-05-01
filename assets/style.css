@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap');
+
+:root {
+    --bg-color: #14181c;
+    --card-bg: #2c3440;
+    --text-color: #ffffff;
+    --accent-color: #ff8000;
+    --border-color: #445566;
+}
+
+[data-theme="light"] {
+    --bg-color: #f4f7f8;
+    --card-bg: #ffffff;
+    --text-color: #2c3440;
+    --accent-color: #ff8000;
+    --border-color: #d8e0e8;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    margin: 0;
+}
+
+#theme-container {
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* --- ESPACEMENT DES FILTRES --- */
+.filter-card {
+    background-color: var(--card-bg) !important;
+    border: 1px solid var(--border-color) !important;
+    color: var(--text-color) !important;
+    border-radius: 15px !important;
+    padding: 15px !important; /* Marge interne globale du cadre */
+}
+
+.filter-group {
+    margin-bottom: 25px !important; /* Espace entre chaque bloc (Catégorie, Note, etc.) */
+}
+
+.filter-label {
+    font-weight: 600;
+    margin-bottom: 12px !important;
+    display: block;
+    color: var(--accent-color);
+}
+
+/* --- POSTERS --- */
+.poster-item {
+    transition: transform 0.2s ease;
+    text-decoration: none !important;
+}
+
+.poster-item:hover {
+    transform: translateY(-8px);
+}
+
+.movie-placeholder {
+    background-color: var(--card-bg) !important;
+    border: 1px solid var(--border-color) !important;
+    color: var(--text-color) !important;
+    font-weight: 600;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* --- BOUTONS ET ÉLÉMENTS --- */
+.btn-warning {
+    background-color: var(--accent-color) !important;
+    border: none !important;
+    color: white !important;
+    font-weight: bold !important;
+    padding: 12px !important;
+}
+
+.custom-dropdown .Select-control {
+    border-radius: 8px !important;
+}
+
+/* Ajustement pour que les marques du slider ne collent pas au suivant */
+.rc-slider {
+    margin-bottom: 35px; 
+}
