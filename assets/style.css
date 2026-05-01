@@ -25,6 +25,13 @@ body {
 
 h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; }
 
+/* RECHERCHE */
+#search-input:focus {
+    border-color: var(--accent-color) !important;
+    box-shadow: 0 0 0 0.2rem rgba(255, 128, 0, 0.25) !important;
+    outline: none;
+}
+
 /* CARTES & FILTRES */
 .filter-card, .result-card {
     background-color: var(--card-bg) !important;
@@ -38,10 +45,10 @@ h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; }
 @keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
 
 /* POSTERS */
-.movie-poster { box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: 0.3s; }
-.poster-item:hover .movie-poster { transform: scale(1.05); border: 2px solid var(--accent-color); }
+.movie-poster { box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: 0.3s; border: 2px solid transparent; }
+.poster-item:hover .movie-poster { transform: scale(1.05); border-color: var(--accent-color); }
 
-/* --- SECTIONS DE GENRES --- */
+/* SECTIONS DE GENRES */
 .genre-header {
     padding: 12px 20px;
     border-radius: 8px;
@@ -50,24 +57,18 @@ h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; }
     border-left: 5px solid var(--accent-color);
     background: linear-gradient(90deg, rgba(255,128,0,0.1) 0%, transparent 100%);
 }
-
 .genre-title { margin-left: 15px; letter-spacing: 2px; font-weight: 700; margin-bottom: 0; }
 
-/* Variantes de couleurs par genre */
+/* Couleurs par genre */
 .genre-action { border-left-color: #e74c3c; background: linear-gradient(90deg, rgba(231,76,60,0.1) 0%, transparent 100%); }
 .icon-action { color: #e74c3c; }
-
 .genre-horreur { border-left-color: #8e44ad; background: linear-gradient(90deg, rgba(142,68,173,0.1) 0%, transparent 100%); }
 .icon-horreur { color: #8e44ad; }
-
 .genre-science-fiction { border-left-color: #2980b9; background: linear-gradient(90deg, rgba(41,128,185,0.1) 0%, transparent 100%); }
 .icon-science-fiction { color: #2980b9; }
-
 .genre-drame { border-left-color: #f1c40f; background: linear-gradient(90deg, rgba(241,196,15,0.1) 0%, transparent 100%); }
 .icon-drame { color: #f1c40f; }
-
 .genre-comedie { border-left-color: #2ecc71; background: linear-gradient(90deg, rgba(46,204,113,0.1) 0%, transparent 100%); }
 .icon-comedie { color: #2ecc71; }
-
 .genre-thriller { border-left-color: #d35400; background: linear-gradient(90deg, rgba(211,84,0,0.1) 0%, transparent 100%); }
 .icon-thriller { color: #d35400; }

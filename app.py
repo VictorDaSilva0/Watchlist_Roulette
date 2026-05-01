@@ -35,7 +35,6 @@ def create_poster_card(row):
     )
 
 def clean_genre_name(name):
-    """Transforme 'Science-Fiction' en 'science-fiction' pour le CSS"""
     return str(name).lower().replace(" ", "-").replace("é", "e").replace("ë", "e")
 
 # 3. CONFIGURATION DE L'APP
@@ -77,12 +76,21 @@ app.layout = html.Div(id="theme-container", children=[
 
         html.Hr(style={'borderColor': 'var(--border-color)', 'margin': '40px 0'}),
         
-        # SECTION TRI & GRILLE
+        # SECTION RECHERCHE, TRI & COMPTEUR
         dbc.Row([
-            dbc.Col(html.H3("Ma Watchlist", className="mb-4"), width=12, lg=6),
+            dbc.Col([
+                html.H3("Ma Watchlist", className="mb-1"),
+                html.P(id="movie-counter", style={'opacity': '0.6', 'fontSize': '0.9rem'})
+            ], width=12, lg=4, className="text-center text-lg-start"),
+            
+            dbc.Col([
+                dbc.Input(id="search-input", placeholder="Rechercher un film...", type="text", 
+                          style={'borderRadius': '10px', 'backgroundColor': 'var(--card-bg)', 'color': 'var(--text-color)', 'border': '1px solid var(--border-color)'})
+            ], width=12, lg=4, className="my-3 my-lg-0"),
+
             dbc.Col([
                 html.Div([
-                    html.Span("Trier par : ", style={'marginRight': '10px', 'opacity': '0.8'}),
+                    html.Span("Trier : ", style={'marginRight': '10px', 'opacity': '0.8'}),
                     dcc.Dropdown(
                         id='sort-by',
                         options=[
@@ -91,11 +99,11 @@ app.layout = html.Div(id="theme-container", children=[
                             {'label': 'Note (Plus haute)', 'value': 'rate_desc'},
                             {'label': 'Grouper par Genre', 'value': 'group_genre'},
                         ],
-                        value='name_asc', clearable=False, style={'width': '220px', 'color': '#333'}
+                        value='name_asc', clearable=False, style={'width': '180px', 'color': '#333'}
                     )
-                ], className="d-flex align-items-center justify-content-lg-end mb-4")
-            ], width=12, lg=6)
-        ]),
+                ], className="d-flex align-items-center justify-content-center justify-content-lg-end")
+            ], width=12, lg=4)
+        ], className="mb-4 align-items-end"),
 
         html.Div(id='poster-grid')
     ], fluid=True, style={'maxWidth': '1300px'})
@@ -113,14 +121,21 @@ def switch_theme(n, current):
     return "dark", "lucide:moon"
 
 @app.callback(
-    [Output('roulette-result', 'children'), Output('poster-grid', 'children')],
-    [Input('spin-button', 'n_clicks'), Input('genre-filter', 'value'),
-     Input('rating-slider', 'value'), Input('sort-by', 'value')]
+    [Output('roulette-result', 'children'), Output('poster-grid', 'children'), Output('movie-counter', 'children')],
+    [Input('spin-button', 'n_clicks'), 
+     Input('genre-filter', 'value'),
+     Input('rating-slider', 'value'), 
+     Input('sort-by', 'value'),
+     Input('search-input', 'value')]
 )
-def update_app(n_clicks, genres, min_rate, sort_val):
+def update_app(n_clicks, genres, min_rate, sort_val, search_val):
+    # Filtrage
     dff = df[df['AvgRating'] >= min_rate].copy()
     if genres: dff = dff[dff['Genre'].isin(genres)]
+    if search_val:
+        dff = dff[dff['Name'].str.contains(search_val, case=False, na=False)]
 
+    # Tri
     if sort_val == 'name_asc': dff = dff.sort_values('Name', ascending=True)
     elif sort_val == 'name_desc': dff = dff.sort_values('Name', ascending=False)
     elif sort_val == 'rate_desc': dff = dff.sort_values('AvgRating', ascending=False)
@@ -138,7 +153,9 @@ def update_app(n_clicks, genres, min_rate, sort_val):
             ])
         ], className="result-card text-center result-animation shadow-lg", key=f"res-{n_clicks}")
 
-    # Grille de films
+    # Grille & Compteur
+    count_text = f"{len(dff)} film{'s' if len(dff) > 1 else ''} correspond{'ent' if len(dff) > 1 else ''}"
+    
     if sort_val == 'group_genre':
         grid_content = []
         for g_name in sorted(dff['Genre'].unique()):
@@ -155,7 +172,7 @@ def update_app(n_clicks, genres, min_rate, sort_val):
     else:
         grid_content = html.Div([create_poster_card(row) for _, row in dff.iterrows()], className="d-flex flex-wrap gap-4 justify-content-center")
 
-    return result, grid_content
+    return result, grid_content, count_text
 
 if __name__ == '__main__':
     app.run(debug=False, host='0.0.0.0', port=8050)
