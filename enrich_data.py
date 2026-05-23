@@ -74,6 +74,7 @@ if __name__ == "__main__":
         details = get_movie_details(name)
         
         # On garde les infos de base de Letterboxd et on fusionne avec TMDB
+        # On initialise 'Watched' à False pour chaque film
         movie_info = {
             'Date': row.get('Date'),
             'Name': name,
@@ -83,7 +84,8 @@ if __name__ == "__main__":
             'TitleInt': details['TitleInt'] if details else name,
             'PosterURL': details['PosterURL'] if details else "",
             'AvgRating': details['AvgRating'] if details else 0.0,
-            'Genre': details['Genre'] if details else "Inconnu"
+            'Genre': details['Genre'] if details else "Inconnu",
+            'Watched': False
         }
         new_data.append(movie_info)
         time.sleep(0.1) # Pour respecter les limites de l'API
